@@ -524,998 +524,6 @@
               <bucket>12</bucket>
             </map>
           </encoding>
-          <encoding attr='color' field='[none:start station name:nk]' palette='green_gold_10_0' type='palette'>
-            <map to='#146c36'>
-              <bucket>&quot;Railroad Ave &amp; Kay Ave&quot;</bucket>
-            </map>
-            <map to='#146c36'>
-              <bucket>&quot;West St &amp; Chambers St&quot;</bucket>
-            </map>
-            <map to='#146c36'>
-              <bucket>&quot;Wythe Ave &amp; Metropolitan Ave&quot;</bucket>
-            </map>
-            <map to='#146c36'>
-              <bucket>&quot;York St &amp; Jay St&quot;</bucket>
-            </map>
-            <map to='#156c36'>
-              <bucket>&quot;Willoughby St &amp; Fleet St&quot;</bucket>
-            </map>
-            <map to='#156d36'>
-              <bucket>&quot;Willoughby Ave &amp; Walworth St&quot;</bucket>
-            </map>
-            <map to='#166d37'>
-              <bucket>&quot;William St &amp; Pine St&quot;</bucket>
-            </map>
-            <map to='#166d37'>
-              <bucket>&quot;Willoughby Ave &amp; Hall St&quot;</bucket>
-            </map>
-            <map to='#176e37'>
-              <bucket>&quot;West Thames St&quot;</bucket>
-            </map>
-            <map to='#186e38'>
-              <bucket>&quot;Watts St &amp; Greenwich St&quot;</bucket>
-            </map>
-            <map to='#186f38'>
-              <bucket>&quot;Water - Whitehall Plaza&quot;</bucket>
-            </map>
-            <map to='#196f39'>
-              <bucket>&quot;Washington Square E&quot;</bucket>
-            </map>
-            <map to='#196f39'>
-              <bucket>&quot;Washington St &amp; Gansevoort St&quot;</bucket>
-            </map>
-            <map to='#1a7039'>
-              <bucket>&quot;Washington Pl &amp; 6 Ave&quot;</bucket>
-            </map>
-            <map to='#1a7039'>
-              <bucket>&quot;Washington Pl &amp; Broadway&quot;</bucket>
-            </map>
-            <map to='#1b703a'>
-              <bucket>&quot;Washington Park&quot;</bucket>
-            </map>
-            <map to='#1b713a'>
-              <bucket>&quot;Washington Ave &amp; Park Ave&quot;</bucket>
-            </map>
-            <map to='#1c713a'>
-              <bucket>&quot;Washington Ave &amp; Greene Ave&quot;</bucket>
-            </map>
-            <map to='#1c713b'>
-              <bucket>&quot;Warren St &amp; Church St&quot;</bucket>
-            </map>
-            <map to='#1d723b'>
-              <bucket>&quot;W Broadway &amp; Spring St&quot;</bucket>
-            </map>
-            <map to='#1d723b'>
-              <bucket>&quot;W Houston St &amp; Hudson St&quot;</bucket>
-            </map>
-            <map to='#1e723c'>
-              <bucket>&quot;W 59 St &amp; 10 Ave&quot;</bucket>
-            </map>
-            <map to='#1e733c'>
-              <bucket>&quot;W 56 St &amp; 10 Ave&quot;</bucket>
-            </map>
-            <map to='#1f733c'>
-              <bucket>&quot;W 54 St &amp; 9 Ave&quot;</bucket>
-            </map>
-            <map to='#1f733c'>
-              <bucket>&quot;W 56 St &amp; 6 Ave&quot;</bucket>
-            </map>
-            <map to='#20743d'>
-              <bucket>&quot;W 52 St &amp; 11 Ave&quot;</bucket>
-            </map>
-            <map to='#20743d'>
-              <bucket>&quot;W 53 St &amp; 10 Ave&quot;</bucket>
-            </map>
-            <map to='#21743d'>
-              <bucket>&quot;W 52 St &amp; 9 Ave&quot;</bucket>
-            </map>
-            <map to='#21753e'>
-              <bucket>&quot;W 52 St &amp; 5 Ave&quot;</bucket>
-            </map>
-            <map to='#22753e'>
-              <bucket>&quot;W 49 St &amp; 8 Ave&quot;</bucket>
-            </map>
-            <map to='#22753e'>
-              <bucket>&quot;W 51 St &amp; 6 Ave&quot;</bucket>
-            </map>
-            <map to='#23763f'>
-              <bucket>&quot;W 49 St &amp; 5 Ave&quot;</bucket>
-            </map>
-            <map to='#24763f'>
-              <bucket>&quot;W 46 St &amp; 11 Ave&quot;</bucket>
-            </map>
-            <map to='#24763f'>
-              <bucket>&quot;W 47 St &amp; 10 Ave&quot;</bucket>
-            </map>
-            <map to='#257740'>
-              <bucket>&quot;W 44 St &amp; 5 Ave&quot;</bucket>
-            </map>
-            <map to='#257740'>
-              <bucket>&quot;W 45 St &amp; 6 Ave&quot;</bucket>
-            </map>
-            <map to='#257740'>
-              <bucket>&quot;W 45 St &amp; 8 Ave&quot;</bucket>
-            </map>
-            <map to='#267840'>
-              <bucket>&quot;W 43 St &amp; 10 Ave&quot;</bucket>
-            </map>
-            <map to='#267841'>
-              <bucket>&quot;Park Ave &amp; St Edwards St&quot;</bucket>
-            </map>
-            <map to='#267841'>
-              <bucket>&quot;W 21 St &amp; 6 Ave&quot;</bucket>
-            </map>
-            <map to='#267841'>
-              <bucket>&quot;W 43 St &amp; 6 Ave&quot;</bucket>
-            </map>
-            <map to='#277841'>
-              <bucket>&quot;W 42 St &amp; 8 Ave&quot;</bucket>
-            </map>
-            <map to='#277941'>
-              <bucket>&quot;W 41 St &amp; 8 Ave&quot;</bucket>
-            </map>
-            <map to='#287942'>
-              <bucket>&quot;W 38 St &amp; 8 Ave&quot;</bucket>
-            </map>
-            <map to='#287942'>
-              <bucket>&quot;W 39 St &amp; 9 Ave&quot;</bucket>
-            </map>
-            <map to='#287a42'>
-              <bucket>&quot;W 37 St &amp; 10 Ave&quot;</bucket>
-            </map>
-            <map to='#297a43'>
-              <bucket>&quot;W 37 St &amp; 5 Ave&quot;</bucket>
-            </map>
-            <map to='#297b43'>
-              <bucket>&quot;W 34 St &amp; 11 Ave&quot;</bucket>
-            </map>
-            <map to='#2a7b43'>
-              <bucket>&quot;W 31 St &amp; 7 Ave&quot;</bucket>
-            </map>
-            <map to='#2a7b43'>
-              <bucket>&quot;W 33 St &amp; 7 Ave&quot;</bucket>
-            </map>
-            <map to='#2b7c44'>
-              <bucket>&quot;W 26 St &amp; 10 Ave&quot;</bucket>
-            </map>
-            <map to='#2b7c44'>
-              <bucket>&quot;W 27 St &amp; 7 Ave&quot;</bucket>
-            </map>
-            <map to='#2b7c44'>
-              <bucket>&quot;W 29 St &amp; 9 Ave&quot;</bucket>
-            </map>
-            <map to='#2c7d45'>
-              <bucket>&quot;W 25 St &amp; 6 Ave&quot;</bucket>
-            </map>
-            <map to='#2c7d45'>
-              <bucket>&quot;W 26 St &amp; 8 Ave&quot;</bucket>
-            </map>
-            <map to='#2d7d45'>
-              <bucket>&quot;W 24 St &amp; 7 Ave&quot;</bucket>
-            </map>
-            <map to='#2d7e46'>
-              <bucket>&quot;W 22 St &amp; 10 Ave&quot;</bucket>
-            </map>
-            <map to='#2d7e46'>
-              <bucket>&quot;W 22 St &amp; 8 Ave&quot;</bucket>
-            </map>
-            <map to='#2f7f47'>
-              <bucket>&quot;W 20 St &amp; 8 Ave&quot;</bucket>
-            </map>
-            <map to='#2f8047'>
-              <bucket>&quot;W 20 St &amp; 7 Ave&quot;</bucket>
-            </map>
-            <map to='#308047'>
-              <bucket>&quot;W 18 St &amp; 6 Ave&quot;</bucket>
-            </map>
-            <map to='#308048'>
-              <bucket>&quot;W 17 St &amp; 8 Ave&quot;</bucket>
-            </map>
-            <map to='#308148'>
-              <bucket>&quot;W 16 St &amp; The High Line&quot;</bucket>
-            </map>
-            <map to='#318148'>
-              <bucket>&quot;W 15 St &amp; 7 Ave&quot;</bucket>
-            </map>
-            <map to='#318149'>
-              <bucket>&quot;W 14 St &amp; The High Line&quot;</bucket>
-            </map>
-            <map to='#328249'>
-              <bucket>&quot;W 13 St &amp; 6 Ave&quot;</bucket>
-            </map>
-            <map to='#328249'>
-              <bucket>&quot;W 13 St &amp; 7 Ave&quot;</bucket>
-            </map>
-            <map to='#33834a'>
-              <bucket>&quot;W 11 St &amp; 6 Ave&quot;</bucket>
-            </map>
-            <map to='#33834a'>
-              <bucket>&quot;W 13 St &amp; 5 Ave&quot;</bucket>
-            </map>
-            <map to='#33834a'>
-              <bucket>&quot;W 4 St &amp; 7 Ave S&quot;</bucket>
-            </map>
-            <map to='#34844a'>
-              <bucket>&quot;Sullivan St &amp; Washington Sq&quot;</bucket>
-            </map>
-            <map to='#34844a'>
-              <bucket>&quot;Vesey Pl &amp; River Terrace&quot;</bucket>
-            </map>
-            <map to='#35854a'>
-              <bucket>&quot;Suffolk St &amp; Stanton St&quot;</bucket>
-            </map>
-            <map to='#35854b'>
-              <bucket>&quot;Myrtle Ave &amp; St Edwards St&quot;</bucket>
-            </map>
-            <map to='#35854b'>
-              <bucket>&quot;State St&quot;</bucket>
-            </map>
-            <map to='#35854b'>
-              <bucket>&quot;State St &amp; Smith St&quot;</bucket>
-            </map>
-            <map to='#35854b'>
-              <bucket>&quot;W 20 St &amp; 11 Ave&quot;</bucket>
-            </map>
-            <map to='#36864b'>
-              <bucket>&quot;Stanton St &amp; Chrystie St&quot;</bucket>
-            </map>
-            <map to='#36864b'>
-              <bucket>&quot;Stanton St &amp; Mangin St&quot;</bucket>
-            </map>
-            <map to='#37874b'>
-              <bucket>&quot;St Marks Pl &amp; 1 Ave&quot;</bucket>
-            </map>
-            <map to='#37874b'>
-              <bucket>&quot;St Marks Pl &amp; 2 Ave&quot;</bucket>
-            </map>
-            <map to='#37874c'>
-              <bucket>&quot;St James Pl &amp; Pearl St&quot;</bucket>
-            </map>
-            <map to='#38884c'>
-              <bucket>&quot;South St &amp; Whitehall St&quot;</bucket>
-            </map>
-            <map to='#38884c'>
-              <bucket>&quot;Spruce St &amp; Nassau St&quot;</bucket>
-            </map>
-            <map to='#38884c'>
-              <bucket>&quot;St James Pl &amp; Oliver St&quot;</bucket>
-            </map>
-            <map to='#39894c'>
-              <bucket>&quot;South End Ave &amp; Liberty St&quot;</bucket>
-            </map>
-            <map to='#39894c'>
-              <bucket>&quot;South St &amp; Gouverneur Ln&quot;</bucket>
-            </map>
-            <map to='#3a8a4c'>
-              <bucket>&quot;Shevchenko Pl &amp; E 6 St&quot;</bucket>
-            </map>
-            <map to='#3a8a4d'>
-              <bucket>&quot;S Portland Ave &amp; Hanson Pl&quot;</bucket>
-            </map>
-            <map to='#3a8a4d'>
-              <bucket>&quot;Sands St &amp; Gold St&quot;</bucket>
-            </map>
-            <map to='#3b8b4d'>
-              <bucket>&quot;S 3 St &amp; Bedford Ave&quot;</bucket>
-            </map>
-            <map to='#3b8b4d'>
-              <bucket>&quot;S 4 St &amp; Wythe Ave&quot;</bucket>
-            </map>
-            <map to='#3b8b4d'>
-              <bucket>&quot;S 5 Pl &amp; S 4 St&quot;</bucket>
-            </map>
-            <map to='#3c8c4d'>
-              <bucket>&quot;Rivington St &amp; Chrystie St&quot;</bucket>
-            </map>
-            <map to='#3c8c4d'>
-              <bucket>&quot;Rivington St &amp; Ridge St&quot;</bucket>
-            </map>
-            <map to='#3c8c4e'>
-              <bucket>&quot;Reade St &amp; Broadway&quot;</bucket>
-            </map>
-            <map to='#3d8d4e'>
-              <bucket>&quot;Pitt St &amp; Stanton St&quot;</bucket>
-            </map>
-            <map to='#3e8e4e'>
-              <bucket>&quot;Pershing Square S&quot;</bucket>
-            </map>
-            <map to='#3e8e4e'>
-              <bucket>&quot;Pike St &amp; E Broadway&quot;</bucket>
-            </map>
-            <map to='#3e8e4e'>
-              <bucket>&quot;Pike St &amp; Monroe St&quot;</bucket>
-            </map>
-            <map to='#3f8f4f'>
-              <bucket>&quot;Pearl St &amp; Hanover Square&quot;</bucket>
-            </map>
-            <map to='#3f8f4f'>
-              <bucket>&quot;Perry St &amp; Bleecker St&quot;</bucket>
-            </map>
-            <map to='#40904f'>
-              <bucket>&quot;Park Pl &amp; Church St&quot;</bucket>
-            </map>
-            <map to='#40904f'>
-              <bucket>&quot;Pearl St &amp; Anchorage Pl&quot;</bucket>
-            </map>
-            <map to='#41914f'>
-              <bucket>&quot;Old Fulton St&quot;</bucket>
-            </map>
-            <map to='#41914f'>
-              <bucket>&quot;Old Slip &amp; Front St&quot;</bucket>
-            </map>
-            <map to='#429250'>
-              <bucket>&quot;Nassau St &amp; Navy St&quot;</bucket>
-            </map>
-            <map to='#429250'>
-              <bucket>&quot;Norfolk St &amp; Broome St&quot;</bucket>
-            </map>
-            <map to='#439350'>
-              <bucket>&quot;Monroe St &amp; Classon Ave&quot;</bucket>
-            </map>
-            <map to='#439350'>
-              <bucket>&quot;Mott St &amp; Prince St&quot;</bucket>
-            </map>
-            <map to='#439350'>
-              <bucket>&quot;Murray St &amp; West St&quot;</bucket>
-            </map>
-            <map to='#439350'>
-              <bucket>&quot;University Pl &amp; E 14 St&quot;</bucket>
-            </map>
-            <map to='#439450'>
-              <bucket>&quot;Montague St &amp; Clinton St&quot;</bucket>
-            </map>
-            <map to='#449550'>
-              <bucket>&quot;Metropolitan Ave &amp; Bedford Ave&quot;</bucket>
-            </map>
-            <map to='#449550'>
-              <bucket>&quot;Monroe St &amp; Bedford Ave&quot;</bucket>
-            </map>
-            <map to='#459551'>
-              <bucket>&quot;Mercer St &amp; Spring St&quot;</bucket>
-            </map>
-            <map to='#459651'>
-              <bucket>&quot;Mercer St &amp; Bleecker St&quot;</bucket>
-            </map>
-            <map to='#469651'>
-              <bucket>&quot;Market St &amp; Cherry St&quot;</bucket>
-            </map>
-            <map to='#469751'>
-              <bucket>&quot;Madison St &amp; Montgomery St&quot;</bucket>
-            </map>
-            <map to='#469751'>
-              <bucket>&quot;Maiden Ln &amp; Pearl St&quot;</bucket>
-            </map>
-            <map to='#479751'>
-              <bucket>&quot;Madison St &amp; Clinton St&quot;</bucket>
-            </map>
-            <map to='#479851'>
-              <bucket>&quot;MacDougal St &amp; Washington Sq&quot;</bucket>
-            </map>
-            <map to='#479851'>
-              <bucket>&quot;Macon St &amp; Nostrand Ave&quot;</bucket>
-            </map>
-            <map to='#489852'>
-              <bucket>&quot;MacDougal St &amp; Prince St&quot;</bucket>
-            </map>
-            <map to='#489952'>
-              <bucket>&quot;Lispenard St &amp; Broadway&quot;</bucket>
-            </map>
-            <map to='#489952'>
-              <bucket>&quot;Little West St &amp; 1 Pl&quot;</bucket>
-            </map>
-            <map to='#499a52'>
-              <bucket>&quot;Lexington Ave &amp; E 26 St&quot;</bucket>
-            </map>
-            <map to='#499a52'>
-              <bucket>&quot;Liberty St &amp; Broadway&quot;</bucket>
-            </map>
-            <map to='#4a9a52'>
-              <bucket>&quot;Lexington Ave &amp; E 24 St&quot;</bucket>
-            </map>
-            <map to='#4a9b52'>
-              <bucket>&quot;Lefferts Pl &amp; Franklin Ave&quot;</bucket>
-            </map>
-            <map to='#4a9b52'>
-              <bucket>&quot;Lexington Ave &amp; Classon Ave&quot;</bucket>
-            </map>
-            <map to='#4b9c53'>
-              <bucket>&quot;Laight St &amp; Hudson St&quot;</bucket>
-            </map>
-            <map to='#4b9c53'>
-              <bucket>&quot;Lawrence St &amp; Willoughby St&quot;</bucket>
-            </map>
-            <map to='#4c9c53'>
-              <bucket>&quot;LaGuardia Pl &amp; W 3 St&quot;</bucket>
-            </map>
-            <map to='#4d9d53'>
-              <bucket>&quot;Lafayette St &amp; Jersey St&quot;</bucket>
-            </map>
-            <map to='#4e9d53'>
-              <bucket>&quot;Lafayette Ave &amp; St James Pl&quot;</bucket>
-            </map>
-            <map to='#4f9d53'>
-              <bucket>&quot;Lafayette Ave &amp; Fort Greene Pl&quot;</bucket>
-            </map>
-            <map to='#4f9e53'>
-              <bucket>&quot;Lafayette Ave &amp; Classon Ave&quot;</bucket>
-            </map>
-            <map to='#509e53'>
-              <bucket>&quot;Kent Ave &amp; S 11 St&quot;</bucket>
-            </map>
-            <map to='#519e53'>
-              <bucket>&quot;Joralemon St &amp; Adams St&quot;</bucket>
-            </map>
-            <map to='#519f53'>
-              <bucket>&quot;Johnson St &amp; Gold St&quot;</bucket>
-            </map>
-            <map to='#529f54'>
-              <bucket>&quot;Jay St &amp; Tech Pl&quot;</bucket>
-            </map>
-            <map to='#529f54'>
-              <bucket>&quot;John St &amp; William St&quot;</bucket>
-            </map>
-            <map to='#53a054'>
-              <bucket>&quot;Hudson St &amp; Reade St&quot;</bucket>
-            </map>
-            <map to='#54a054'>
-              <bucket>&quot;Hanover Pl &amp; Livingston St&quot;</bucket>
-            </map>
-            <map to='#54a054'>
-              <bucket>&quot;Hicks St &amp; Montague St&quot;</bucket>
-            </map>
-            <map to='#54a054'>
-              <bucket>&quot;Howard St &amp; Centre St&quot;</bucket>
-            </map>
-            <map to='#54a054'>
-              <bucket>&quot;Pershing Square N&quot;</bucket>
-            </map>
-            <map to='#55a054'>
-              <bucket>&quot;Henry St &amp; Poplar St&quot;</bucket>
-            </map>
-            <map to='#56a154'>
-              <bucket>&quot;Henry St &amp; Atlantic Ave&quot;</bucket>
-            </map>
-            <map to='#56a154'>
-              <bucket>&quot;Henry St &amp; Grand St&quot;</bucket>
-            </map>
-            <map to='#57a154'>
-              <bucket>&quot;Harrison St &amp; Hudson St&quot;</bucket>
-            </map>
-            <map to='#59a255'>
-              <bucket>&quot;Greenwich St &amp; Warren St&quot;</bucket>
-            </map>
-            <map to='#59a355'>
-              <bucket>&quot;Greenwich St &amp; N Moore St&quot;</bucket>
-            </map>
-            <map to='#5aa355'>
-              <bucket>&quot;Greenwich Ave &amp; Charles St&quot;</bucket>
-            </map>
-            <map to='#5ba355'>
-              <bucket>&quot;Greenwich Ave &amp; 8 Ave&quot;</bucket>
-            </map>
-            <map to='#5ba455'>
-              <bucket>&quot;Great Jones St&quot;</bucket>
-            </map>
-            <map to='#5ca455'>
-              <bucket>&quot;Grand St &amp; Havemeyer St&quot;</bucket>
-            </map>
-            <map to='#5da455'>
-              <bucket>&quot;Grand Army Plaza &amp; Central Park S&quot;</bucket>
-            </map>
-            <map to='#5da455'>
-              <bucket>&quot;Grand St &amp; Greene St&quot;</bucket>
-            </map>
-            <map to='#5ea555'>
-              <bucket>&quot;Gallatin Pl &amp; Livingston St&quot;</bucket>
-            </map>
-            <map to='#5fa555'>
-              <bucket>&quot;Fulton St &amp; Waverly Ave&quot;</bucket>
-            </map>
-            <map to='#5fa555'>
-              <bucket>&quot;Fulton St &amp; William St&quot;</bucket>
-            </map>
-            <map to='#60a656'>
-              <bucket>&quot;Fulton St &amp; Rockwell Pl&quot;</bucket>
-            </map>
-            <map to='#61a656'>
-              <bucket>&quot;Fulton St &amp; Grand Ave&quot;</bucket>
-            </map>
-            <map to='#62a656'>
-              <bucket>&quot;Fulton St &amp; Clermont Ave&quot;</bucket>
-            </map>
-            <map to='#62a756'>
-              <bucket>&quot;Front St &amp; Washington St&quot;</bucket>
-            </map>
-            <map to='#63a756'>
-              <bucket>&quot;Front St &amp; Maiden Ln&quot;</bucket>
-            </map>
-            <map to='#64a856'>
-              <bucket>&quot;Front St &amp; Gold St&quot;</bucket>
-            </map>
-            <map to='#65a856'>
-              <bucket>&quot;Franklin St &amp; W Broadway&quot;</bucket>
-            </map>
-            <map to='#67a956'>
-              <bucket>&quot;Forsyth St &amp; Canal St&quot;</bucket>
-            </map>
-            <map to='#68a956'>
-              <bucket>&quot;Flushing Ave &amp; Carlton Ave&quot;</bucket>
-            </map>
-            <map to='#68a956'>
-              <bucket>&quot;Forsyth St &amp; Broome St&quot;</bucket>
-            </map>
-            <map to='#69aa56'>
-              <bucket>&quot;FDR Drive &amp; E 35 St&quot;</bucket>
-            </map>
-            <map to='#6aaa56'>
-              <bucket>&quot;Emerson Pl &amp; Myrtle Ave&quot;</bucket>
-            </map>
-            <map to='#6baa56'>
-              <bucket>&quot;Elizabeth St &amp; Hester St&quot;</bucket>
-            </map>
-            <map to='#6cab56'>
-              <bucket>&quot;E 59 St &amp; Sutton Pl&quot;</bucket>
-            </map>
-            <map to='#6dab56'>
-              <bucket>&quot;E 58 St &amp; 3 Ave&quot;</bucket>
-            </map>
-            <map to='#6eac56'>
-              <bucket>&quot;E 56 St &amp; 3 Ave&quot;</bucket>
-            </map>
-            <map to='#6eac56'>
-              <bucket>&quot;E 56 St &amp; Madison Ave&quot;</bucket>
-            </map>
-            <map to='#6fac56'>
-              <bucket>&quot;E 55 St &amp; Lexington Ave&quot;</bucket>
-            </map>
-            <map to='#6fac56'>
-              <bucket>&quot;Hancock St &amp; Bedford Ave&quot;</bucket>
-            </map>
-            <map to='#6fac56'>
-              <bucket>&quot;Lafayette St &amp; E 8 St&quot;</bucket>
-            </map>
-            <map to='#70ad56'>
-              <bucket>&quot;E 55 St &amp; 2 Ave&quot;</bucket>
-            </map>
-            <map to='#71ad56'>
-              <bucket>&quot;E 53 St &amp; Madison Ave&quot;</bucket>
-            </map>
-            <map to='#72ad56'>
-              <bucket>&quot;E 53 St &amp; Lexington Ave&quot;</bucket>
-            </map>
-            <map to='#73ae56'>
-              <bucket>&quot;E 52 St &amp; 2 Ave&quot;</bucket>
-            </map>
-            <map to='#74ae56'>
-              <bucket>&quot;E 51 St &amp; 1 Ave&quot;</bucket>
-            </map>
-            <map to='#74ae56'>
-              <bucket>&quot;E 51 St &amp; Lexington Ave&quot;</bucket>
-            </map>
-            <map to='#75af56'>
-              <bucket>&quot;E 48 St &amp; 3 Ave&quot;</bucket>
-            </map>
-            <map to='#76af56'>
-              <bucket>&quot;E 47 St &amp; Park Ave&quot;</bucket>
-            </map>
-            <map to='#77b056'>
-              <bucket>&quot;E 47 St &amp; 2 Ave&quot;</bucket>
-            </map>
-            <map to='#78b056'>
-              <bucket>&quot;E 47 St &amp; 1 Ave&quot;</bucket>
-            </map>
-            <map to='#79b056'>
-              <bucket>&quot;E 45 St &amp; 3 Ave&quot;</bucket>
-            </map>
-            <map to='#79b156'>
-              <bucket>&quot;E 43 St &amp; Vanderbilt Ave&quot;</bucket>
-            </map>
-            <map to='#7ab156'>
-              <bucket>&quot;E 43 St &amp; 2 Ave&quot;</bucket>
-            </map>
-            <map to='#7bb156'>
-              <bucket>&quot;E 40 St &amp; 5 Ave&quot;</bucket>
-            </map>
-            <map to='#7cb257'>
-              <bucket>&quot;E 39 St &amp; 3 Ave&quot;</bucket>
-            </map>
-            <map to='#7db257'>
-              <bucket>&quot;E 39 St &amp; 2 Ave&quot;</bucket>
-            </map>
-            <map to='#7eb257'>
-              <bucket>&quot;E 37 St &amp; Lexington Ave&quot;</bucket>
-            </map>
-            <map to='#7fb257'>
-              <bucket>&quot;E 33 St &amp; 5 Ave&quot;</bucket>
-            </map>
-            <map to='#7fb357'>
-              <bucket>&quot;E 33 St &amp; 1 Ave&quot;</bucket>
-            </map>
-            <map to='#80b357'>
-              <bucket>&quot;E 32 St &amp; Park Ave&quot;</bucket>
-            </map>
-            <map to='#81b357'>
-              <bucket>&quot;E 31 St &amp; 3 Ave&quot;</bucket>
-            </map>
-            <map to='#82b457'>
-              <bucket>&quot;E 30 St &amp; Park Ave S&quot;</bucket>
-            </map>
-            <map to='#83b457'>
-              <bucket>&quot;E 27 St &amp; 1 Ave&quot;</bucket>
-            </map>
-            <map to='#84b457'>
-              <bucket>&quot;E 25 St &amp; 2 Ave&quot;</bucket>
-            </map>
-            <map to='#85b457'>
-              <bucket>&quot;E 25 St &amp; 1 Ave&quot;</bucket>
-            </map>
-            <map to='#85b557'>
-              <bucket>&quot;E 23 St &amp; 1 Ave&quot;</bucket>
-            </map>
-            <map to='#86b557'>
-              <bucket>&quot;E 20 St &amp; Park Ave&quot;</bucket>
-            </map>
-            <map to='#87b557'>
-              <bucket>&quot;E 20 St &amp; FDR Drive&quot;</bucket>
-            </map>
-            <map to='#88b557'>
-              <bucket>&quot;E 20 St &amp; 2 Ave&quot;</bucket>
-            </map>
-            <map to='#89b657'>
-              <bucket>&quot;E 19 St &amp; 3 Ave&quot;</bucket>
-            </map>
-            <map to='#8ab658'>
-              <bucket>&quot;E 16 St &amp; Irving Pl&quot;</bucket>
-            </map>
-            <map to='#8bb758'>
-              <bucket>&quot;E 16 St &amp; 5 Ave&quot;</bucket>
-            </map>
-            <map to='#8cb758'>
-              <bucket>&quot;E 15 St &amp; 3 Ave&quot;</bucket>
-            </map>
-            <map to='#8db758'>
-              <bucket>&quot;E 14 St &amp; Avenue B&quot;</bucket>
-            </map>
-            <map to='#8eb758'>
-              <bucket>&quot;E 13 St &amp; Avenue A&quot;</bucket>
-            </map>
-            <map to='#8eb858'>
-              <bucket>&quot;E 17 St &amp; Broadway&quot;</bucket>
-            </map>
-            <map to='#8eb858'>
-              <bucket>&quot;Franklin Ave &amp; Myrtle Ave&quot;</bucket>
-            </map>
-            <map to='#8fb858'>
-              <bucket>&quot;E 12 St &amp; 3 Ave&quot;</bucket>
-            </map>
-            <map to='#90b858'>
-              <bucket>&quot;E 11 St &amp; 2 Ave&quot;</bucket>
-            </map>
-            <map to='#90b858'>
-              <bucket>&quot;E 11 St &amp; Broadway&quot;</bucket>
-            </map>
-            <map to='#91b958'>
-              <bucket>&quot;E 11 St &amp; 1 Ave&quot;</bucket>
-            </map>
-            <map to='#92b958'>
-              <bucket>&quot;E 10 St &amp; Avenue A&quot;</bucket>
-            </map>
-            <map to='#93b958'>
-              <bucket>&quot;E 10 St &amp; 5 Ave&quot;</bucket>
-            </map>
-            <map to='#94b958'>
-              <bucket>&quot;E 9 St &amp; Avenue C&quot;</bucket>
-            </map>
-            <map to='#95ba58'>
-              <bucket>&quot;E 7 St &amp; Avenue A&quot;</bucket>
-            </map>
-            <map to='#96ba58'>
-              <bucket>&quot;E 6 St &amp; Avenue B&quot;</bucket>
-            </map>
-            <map to='#96ba58'>
-              <bucket>&quot;E 6 St &amp; Avenue D&quot;</bucket>
-            </map>
-            <map to='#97ba58'>
-              <bucket>&quot;E 5 St &amp; Avenue C&quot;</bucket>
-            </map>
-            <map to='#98bb59'>
-              <bucket>&quot;E 4 St &amp; 2 Ave&quot;</bucket>
-            </map>
-            <map to='#99bb59'>
-              <bucket>&quot;E 3 St &amp; 1 Ave&quot;</bucket>
-            </map>
-            <map to='#9abb59'>
-              <bucket>&quot;E 2 St &amp; Avenue C&quot;</bucket>
-            </map>
-            <map to='#9bbb59'>
-              <bucket>&quot;E 2 St &amp; Avenue B&quot;</bucket>
-            </map>
-            <map to='#9cbc59'>
-              <bucket>&quot;E 2 St &amp; 2 Ave&quot;</bucket>
-            </map>
-            <map to='#9dbc59'>
-              <bucket>&quot;Duffield St &amp; Willoughby St&quot;</bucket>
-            </map>
-            <map to='#9ebc59'>
-              <bucket>&quot;Duane St &amp; Greenwich St&quot;</bucket>
-            </map>
-            <map to='#9fbc59'>
-              <bucket>&quot;Division St &amp; Bowery&quot;</bucket>
-            </map>
-            <map to='#9fbd59'>
-              <bucket>&quot;DeKalb Ave &amp; Vanderbilt Ave&quot;</bucket>
-            </map>
-            <map to='#a0bd59'>
-              <bucket>&quot;DeKalb Ave &amp; Skillman St&quot;</bucket>
-            </map>
-            <map to='#a1bd59'>
-              <bucket>&quot;DeKalb Ave &amp; S Portland Ave&quot;</bucket>
-            </map>
-            <map to='#a2bd5a'>
-              <bucket>&quot;DeKalb Ave &amp; Hudson Ave&quot;</bucket>
-            </map>
-            <map to='#a3be5a'>
-              <bucket>&quot;Dean St &amp; 4 Ave&quot;</bucket>
-            </map>
-            <map to='#a4be5a'>
-              <bucket>&quot;Cumberland St &amp; Lafayette Ave&quot;</bucket>
-            </map>
-            <map to='#a5be5a'>
-              <bucket>&quot;Concord St &amp; Bridge St&quot;</bucket>
-            </map>
-            <map to='#a6be5a'>
-              <bucket>&quot;Columbia St &amp; Rivington St&quot;</bucket>
-            </map>
-            <map to='#a7bf5a'>
-              <bucket>&quot;Columbia Heights &amp; Cranberry St&quot;</bucket>
-            </map>
-            <map to='#a8bf5a'>
-              <bucket>&quot;Clinton St &amp; Tillary St&quot;</bucket>
-            </map>
-            <map to='#a9bf5a'>
-              <bucket>&quot;Clinton St &amp; Grand St&quot;</bucket>
-            </map>
-            <map to='#a9bf5a'>
-              <bucket>&quot;Clinton St &amp; Joralemon St&quot;</bucket>
-            </map>
-            <map to='#aac05a'>
-              <bucket>&quot;Clinton Ave &amp; Myrtle Ave&quot;</bucket>
-            </map>
-            <map to='#abc05a'>
-              <bucket>&quot;Clinton Ave &amp; Flushing Ave&quot;</bucket>
-            </map>
-            <map to='#acc05b'>
-              <bucket>&quot;Cliff St &amp; Fulton St&quot;</bucket>
-            </map>
-            <map to='#aec15b'>
-              <bucket>&quot;Clermont Ave &amp; Park Ave&quot;</bucket>
-            </map>
-            <map to='#afc15b'>
-              <bucket>&quot;Cadman Plaza E &amp; Red Cross Pl&quot;</bucket>
-            </map>
-            <map to='#afc15b'>
-              <bucket>&quot;Clermont Ave &amp; Lafayette Ave&quot;</bucket>
-            </map>
-            <map to='#afc15b'>
-              <bucket>&quot;Cleveland Pl &amp; Spring St&quot;</bucket>
-            </map>
-            <map to='#b0c15b'>
-              <bucket>&quot;Clark St &amp; Henry St&quot;</bucket>
-            </map>
-            <map to='#b1c15b'>
-              <bucket>&quot;Church St &amp; Leonard St&quot;</bucket>
-            </map>
-            <map to='#b2c15b'>
-              <bucket>&quot;Christopher St &amp; Greenwich St&quot;</bucket>
-            </map>
-            <map to='#b3c25b'>
-              <bucket>&quot;Centre St &amp; Worth St&quot;</bucket>
-            </map>
-            <map to='#b3c25b'>
-              <bucket>&quot;Cherry St&quot;</bucket>
-            </map>
-            <map to='#b4c25b'>
-              <bucket>&quot;Centre St &amp; Chambers St&quot;</bucket>
-            </map>
-            <map to='#b5c25b'>
-              <bucket>&quot;Central Park S &amp; 6 Ave&quot;</bucket>
-            </map>
-            <map to='#b6c35c'>
-              <bucket>&quot;Catherine St &amp; Monroe St&quot;</bucket>
-            </map>
-            <map to='#b7c35c'>
-              <bucket>&quot;Carmine St &amp; 6 Ave&quot;</bucket>
-            </map>
-            <map to='#b8c35c'>
-              <bucket>&quot;Carlton Ave &amp; Park Ave&quot;</bucket>
-            </map>
-            <map to='#b9c35c'>
-              <bucket>&quot;Canal St &amp; Rutgers St&quot;</bucket>
-            </map>
-            <map to='#bac45c'>
-              <bucket>&quot;Cadman Plaza E &amp; Tillary St&quot;</bucket>
-            </map>
-            <map to='#bcc45c'>
-              <bucket>&quot;Broadway &amp; W 60 St&quot;</bucket>
-            </map>
-            <map to='#bdc45c'>
-              <bucket>&quot;Broadway &amp; W 58 St&quot;</bucket>
-            </map>
-            <map to='#bec45d'>
-              <bucket>&quot;Broadway &amp; W 55 St&quot;</bucket>
-            </map>
-            <map to='#bfc55d'>
-              <bucket>&quot;Broadway &amp; W 53 St&quot;</bucket>
-            </map>
-            <map to='#c0c55d'>
-              <bucket>&quot;Broadway &amp; W 51 St&quot;</bucket>
-            </map>
-            <map to='#c1c55d'>
-              <bucket>&quot;Broadway &amp; W 49 St&quot;</bucket>
-            </map>
-            <map to='#c2c55d'>
-              <bucket>&quot;Broadway &amp; W 41 St&quot;</bucket>
-            </map>
-            <map to='#c3c55d'>
-              <bucket>&quot;Broadway &amp; W 39 St&quot;</bucket>
-            </map>
-            <map to='#c3c65d'>
-              <bucket>&quot;Broadway &amp; W 37 St&quot;</bucket>
-            </map>
-            <map to='#c4c65d'>
-              <bucket>&quot;Broadway &amp; W 36 St&quot;</bucket>
-            </map>
-            <map to='#c5c65e'>
-              <bucket>&quot;Broadway &amp; W 32 St&quot;</bucket>
-            </map>
-            <map to='#c6c65e'>
-              <bucket>&quot;Broadway &amp; W 29 St&quot;</bucket>
-            </map>
-            <map to='#c7c75e'>
-              <bucket>&quot;Broadway &amp; W 24 St&quot;</bucket>
-            </map>
-            <map to='#c8c75e'>
-              <bucket>&quot;Broadway &amp; E 22 St&quot;</bucket>
-            </map>
-            <map to='#cac75e'>
-              <bucket>&quot;Broadway &amp; Berry St&quot;</bucket>
-            </map>
-            <map to='#cbc75e'>
-              <bucket>&quot;Broadway &amp; Battery Pl&quot;</bucket>
-            </map>
-            <map to='#ccc85e'>
-              <bucket>&quot;Broad St &amp; Bridge St&quot;</bucket>
-            </map>
-            <map to='#cdc85f'>
-              <bucket>&quot;Bond St &amp; Schermerhorn St&quot;</bucket>
-            </map>
-            <map to='#cec85f'>
-              <bucket>&quot;Bialystoker Pl &amp; Delancey St&quot;</bucket>
-            </map>
-            <map to='#d0c85f'>
-              <bucket>&quot;Bayard St &amp; Baxter St&quot;</bucket>
-            </map>
-            <map to='#d1c95f'>
-              <bucket>&quot;Barrow St &amp; Hudson St&quot;</bucket>
-            </map>
-            <map to='#d1c95f'>
-              <bucket>&quot;Bedford Ave &amp; S 9th St&quot;</bucket>
-            </map>
-            <map to='#d1c95f'>
-              <bucket>&quot;Broadway &amp; E 14 St&quot;</bucket>
-            </map>
-            <map to='#d2c95f'>
-              <bucket>&quot;Barclay St &amp; Church St&quot;</bucket>
-            </map>
-            <map to='#d3c95f'>
-              <bucket>&quot;Bank St &amp; Hudson St&quot;</bucket>
-            </map>
-            <map to='#d3c95f'>
-              <bucket>&quot;Bank St &amp; Washington St&quot;</bucket>
-            </map>
-            <map to='#d4c95f'>
-              <bucket>&quot;Avenue D &amp; E 12 St&quot;</bucket>
-            </map>
-            <map to='#d5ca60'>
-              <bucket>&quot;Avenue D &amp; E 8 St&quot;</bucket>
-            </map>
-            <map to='#d6ca60'>
-              <bucket>&quot;Avenue D &amp; E 3 St&quot;</bucket>
-            </map>
-            <map to='#d7ca60'>
-              <bucket>&quot;Atlantic Ave &amp; Furman St&quot;</bucket>
-            </map>
-            <map to='#d8ca60'>
-              <bucket>&quot;Atlantic Ave &amp; Fort Greene Pl&quot;</bucket>
-            </map>
-            <map to='#d9cb60'>
-              <bucket>&quot;Ashland Pl &amp; Hanson Pl&quot;</bucket>
-            </map>
-            <map to='#dacb61'>
-              <bucket>&quot;Allen St &amp; Rivington St&quot;</bucket>
-            </map>
-            <map to='#dbcb61'>
-              <bucket>&quot;Allen St &amp; Hester St&quot;</bucket>
-            </map>
-            <map to='#dccb61'>
-              <bucket>&quot;Allen St &amp; E Houston St&quot;</bucket>
-            </map>
-            <map to='#ddcb61'>
-              <bucket>&quot;Adelphi St &amp; Myrtle Ave&quot;</bucket>
-            </map>
-            <map to='#decc61'>
-              <bucket>&quot;12 Ave &amp; W 40 St&quot;</bucket>
-            </map>
-            <map to='#dfcc61'>
-              <bucket>&quot;11 Ave &amp; W 41 St&quot;</bucket>
-            </map>
-            <map to='#e0cc62'>
-              <bucket>&quot;11 Ave &amp; W 27 St&quot;</bucket>
-            </map>
-            <map to='#e1cc62'>
-              <bucket>&quot;10 Ave &amp; W 28 St&quot;</bucket>
-            </map>
-            <map to='#e2cc62'>
-              <bucket>&quot;9 Ave &amp; W 45 St&quot;</bucket>
-            </map>
-            <map to='#e3cd62'>
-              <bucket>&quot;9 Ave &amp; W 18 St&quot;</bucket>
-            </map>
-            <map to='#e3cd62'>
-              <bucket>&quot;9 Ave &amp; W 22 St&quot;</bucket>
-            </map>
-            <map to='#e4cd63'>
-              <bucket>&quot;9 Ave &amp; W 16 St&quot;</bucket>
-            </map>
-            <map to='#e5cd63'>
-              <bucket>&quot;9 Ave &amp; W 14 St&quot;</bucket>
-            </map>
-            <map to='#e6ce63'>
-              <bucket>&quot;8 Ave &amp; W 52 St&quot;</bucket>
-            </map>
-            <map to='#e7ce63'>
-              <bucket>&quot;8 Ave &amp; W 33 St&quot;</bucket>
-            </map>
-            <map to='#eace64'>
-              <bucket>&quot;6 Ave &amp; W 33 St&quot;</bucket>
-            </map>
-            <map to='#ebcf64'>
-              <bucket>&quot;6 Ave &amp; Canal St&quot;</bucket>
-            </map>
-            <map to='#eccf64'>
-              <bucket>&quot;6 Ave &amp; Broome St&quot;</bucket>
-            </map>
-            <map to='#edcf64'>
-              <bucket>&quot;5 Ave &amp; E 29 St&quot;</bucket>
-            </map>
-            <map to='#eecf64'>
-              <bucket>&quot;3 Ave &amp; Schermerhorn St&quot;</bucket>
-            </map>
-            <map to='#efcf65'>
-              <bucket>&quot;2 Ave &amp; E 58 St&quot;</bucket>
-            </map>
-            <map to='#f0d065'>
-              <bucket>&quot;2 Ave &amp; E 31 St&quot;</bucket>
-            </map>
-            <map to='#f1d065'>
-              <bucket>&quot;1 Ave &amp; E 44 St&quot;</bucket>
-            </map>
-            <map to='#f2d065'>
-              <bucket>&quot;1 Ave &amp; E 30 St&quot;</bucket>
-            </map>
-            <map to='#f3d065'>
-              <bucket>&quot;1 Ave &amp; E 18 St&quot;</bucket>
-            </map>
-            <map to='#f4d166'>
-              <bucket>&quot;1 Ave &amp; E 15 St&quot;</bucket>
-            </map>
-            <map to='#f4d166'>
-              <bucket>&quot;7 Ave &amp; Farragut St&quot;</bucket>
-            </map>
-            <map to='#f4d166'>
-              <bucket>&quot;8 Ave &amp; W 31 St&quot;</bucket>
-            </map>
-          </encoding>
           <encoding attr='color' field='[none:end station name:nk]' type='palette'>
             <map to='#499894'>
               <bucket>&quot;6 Ave &amp; Broome St&quot;</bucket>
@@ -21956,6 +20964,998 @@
               <bucket>14529</bucket>
             </map>
           </encoding>
+          <encoding attr='color' field='[none:start station name:nk]' palette='green_gold_10_0' type='palette'>
+            <map to='#146c36'>
+              <bucket>&quot;Railroad Ave &amp; Kay Ave&quot;</bucket>
+            </map>
+            <map to='#146c36'>
+              <bucket>&quot;West St &amp; Chambers St&quot;</bucket>
+            </map>
+            <map to='#146c36'>
+              <bucket>&quot;Wythe Ave &amp; Metropolitan Ave&quot;</bucket>
+            </map>
+            <map to='#146c36'>
+              <bucket>&quot;York St &amp; Jay St&quot;</bucket>
+            </map>
+            <map to='#156c36'>
+              <bucket>&quot;Willoughby St &amp; Fleet St&quot;</bucket>
+            </map>
+            <map to='#156d36'>
+              <bucket>&quot;Willoughby Ave &amp; Walworth St&quot;</bucket>
+            </map>
+            <map to='#166d37'>
+              <bucket>&quot;William St &amp; Pine St&quot;</bucket>
+            </map>
+            <map to='#166d37'>
+              <bucket>&quot;Willoughby Ave &amp; Hall St&quot;</bucket>
+            </map>
+            <map to='#176e37'>
+              <bucket>&quot;West Thames St&quot;</bucket>
+            </map>
+            <map to='#186e38'>
+              <bucket>&quot;Watts St &amp; Greenwich St&quot;</bucket>
+            </map>
+            <map to='#186f38'>
+              <bucket>&quot;Water - Whitehall Plaza&quot;</bucket>
+            </map>
+            <map to='#196f39'>
+              <bucket>&quot;Washington Square E&quot;</bucket>
+            </map>
+            <map to='#196f39'>
+              <bucket>&quot;Washington St &amp; Gansevoort St&quot;</bucket>
+            </map>
+            <map to='#1a7039'>
+              <bucket>&quot;Washington Pl &amp; 6 Ave&quot;</bucket>
+            </map>
+            <map to='#1a7039'>
+              <bucket>&quot;Washington Pl &amp; Broadway&quot;</bucket>
+            </map>
+            <map to='#1b703a'>
+              <bucket>&quot;Washington Park&quot;</bucket>
+            </map>
+            <map to='#1b713a'>
+              <bucket>&quot;Washington Ave &amp; Park Ave&quot;</bucket>
+            </map>
+            <map to='#1c713a'>
+              <bucket>&quot;Washington Ave &amp; Greene Ave&quot;</bucket>
+            </map>
+            <map to='#1c713b'>
+              <bucket>&quot;Warren St &amp; Church St&quot;</bucket>
+            </map>
+            <map to='#1d723b'>
+              <bucket>&quot;W Broadway &amp; Spring St&quot;</bucket>
+            </map>
+            <map to='#1d723b'>
+              <bucket>&quot;W Houston St &amp; Hudson St&quot;</bucket>
+            </map>
+            <map to='#1e723c'>
+              <bucket>&quot;W 59 St &amp; 10 Ave&quot;</bucket>
+            </map>
+            <map to='#1e733c'>
+              <bucket>&quot;W 56 St &amp; 10 Ave&quot;</bucket>
+            </map>
+            <map to='#1f733c'>
+              <bucket>&quot;W 54 St &amp; 9 Ave&quot;</bucket>
+            </map>
+            <map to='#1f733c'>
+              <bucket>&quot;W 56 St &amp; 6 Ave&quot;</bucket>
+            </map>
+            <map to='#20743d'>
+              <bucket>&quot;W 52 St &amp; 11 Ave&quot;</bucket>
+            </map>
+            <map to='#20743d'>
+              <bucket>&quot;W 53 St &amp; 10 Ave&quot;</bucket>
+            </map>
+            <map to='#21743d'>
+              <bucket>&quot;W 52 St &amp; 9 Ave&quot;</bucket>
+            </map>
+            <map to='#21753e'>
+              <bucket>&quot;W 52 St &amp; 5 Ave&quot;</bucket>
+            </map>
+            <map to='#22753e'>
+              <bucket>&quot;W 49 St &amp; 8 Ave&quot;</bucket>
+            </map>
+            <map to='#22753e'>
+              <bucket>&quot;W 51 St &amp; 6 Ave&quot;</bucket>
+            </map>
+            <map to='#23763f'>
+              <bucket>&quot;W 49 St &amp; 5 Ave&quot;</bucket>
+            </map>
+            <map to='#24763f'>
+              <bucket>&quot;W 46 St &amp; 11 Ave&quot;</bucket>
+            </map>
+            <map to='#24763f'>
+              <bucket>&quot;W 47 St &amp; 10 Ave&quot;</bucket>
+            </map>
+            <map to='#257740'>
+              <bucket>&quot;W 44 St &amp; 5 Ave&quot;</bucket>
+            </map>
+            <map to='#257740'>
+              <bucket>&quot;W 45 St &amp; 6 Ave&quot;</bucket>
+            </map>
+            <map to='#257740'>
+              <bucket>&quot;W 45 St &amp; 8 Ave&quot;</bucket>
+            </map>
+            <map to='#267840'>
+              <bucket>&quot;W 43 St &amp; 10 Ave&quot;</bucket>
+            </map>
+            <map to='#267841'>
+              <bucket>&quot;Park Ave &amp; St Edwards St&quot;</bucket>
+            </map>
+            <map to='#267841'>
+              <bucket>&quot;W 21 St &amp; 6 Ave&quot;</bucket>
+            </map>
+            <map to='#267841'>
+              <bucket>&quot;W 43 St &amp; 6 Ave&quot;</bucket>
+            </map>
+            <map to='#277841'>
+              <bucket>&quot;W 42 St &amp; 8 Ave&quot;</bucket>
+            </map>
+            <map to='#277941'>
+              <bucket>&quot;W 41 St &amp; 8 Ave&quot;</bucket>
+            </map>
+            <map to='#287942'>
+              <bucket>&quot;W 38 St &amp; 8 Ave&quot;</bucket>
+            </map>
+            <map to='#287942'>
+              <bucket>&quot;W 39 St &amp; 9 Ave&quot;</bucket>
+            </map>
+            <map to='#287a42'>
+              <bucket>&quot;W 37 St &amp; 10 Ave&quot;</bucket>
+            </map>
+            <map to='#297a43'>
+              <bucket>&quot;W 37 St &amp; 5 Ave&quot;</bucket>
+            </map>
+            <map to='#297b43'>
+              <bucket>&quot;W 34 St &amp; 11 Ave&quot;</bucket>
+            </map>
+            <map to='#2a7b43'>
+              <bucket>&quot;W 31 St &amp; 7 Ave&quot;</bucket>
+            </map>
+            <map to='#2a7b43'>
+              <bucket>&quot;W 33 St &amp; 7 Ave&quot;</bucket>
+            </map>
+            <map to='#2b7c44'>
+              <bucket>&quot;W 26 St &amp; 10 Ave&quot;</bucket>
+            </map>
+            <map to='#2b7c44'>
+              <bucket>&quot;W 27 St &amp; 7 Ave&quot;</bucket>
+            </map>
+            <map to='#2b7c44'>
+              <bucket>&quot;W 29 St &amp; 9 Ave&quot;</bucket>
+            </map>
+            <map to='#2c7d45'>
+              <bucket>&quot;W 25 St &amp; 6 Ave&quot;</bucket>
+            </map>
+            <map to='#2c7d45'>
+              <bucket>&quot;W 26 St &amp; 8 Ave&quot;</bucket>
+            </map>
+            <map to='#2d7d45'>
+              <bucket>&quot;W 24 St &amp; 7 Ave&quot;</bucket>
+            </map>
+            <map to='#2d7e46'>
+              <bucket>&quot;W 22 St &amp; 10 Ave&quot;</bucket>
+            </map>
+            <map to='#2d7e46'>
+              <bucket>&quot;W 22 St &amp; 8 Ave&quot;</bucket>
+            </map>
+            <map to='#2f7f47'>
+              <bucket>&quot;W 20 St &amp; 8 Ave&quot;</bucket>
+            </map>
+            <map to='#2f8047'>
+              <bucket>&quot;W 20 St &amp; 7 Ave&quot;</bucket>
+            </map>
+            <map to='#308047'>
+              <bucket>&quot;W 18 St &amp; 6 Ave&quot;</bucket>
+            </map>
+            <map to='#308048'>
+              <bucket>&quot;W 17 St &amp; 8 Ave&quot;</bucket>
+            </map>
+            <map to='#308148'>
+              <bucket>&quot;W 16 St &amp; The High Line&quot;</bucket>
+            </map>
+            <map to='#318148'>
+              <bucket>&quot;W 15 St &amp; 7 Ave&quot;</bucket>
+            </map>
+            <map to='#318149'>
+              <bucket>&quot;W 14 St &amp; The High Line&quot;</bucket>
+            </map>
+            <map to='#328249'>
+              <bucket>&quot;W 13 St &amp; 6 Ave&quot;</bucket>
+            </map>
+            <map to='#328249'>
+              <bucket>&quot;W 13 St &amp; 7 Ave&quot;</bucket>
+            </map>
+            <map to='#33834a'>
+              <bucket>&quot;W 11 St &amp; 6 Ave&quot;</bucket>
+            </map>
+            <map to='#33834a'>
+              <bucket>&quot;W 13 St &amp; 5 Ave&quot;</bucket>
+            </map>
+            <map to='#33834a'>
+              <bucket>&quot;W 4 St &amp; 7 Ave S&quot;</bucket>
+            </map>
+            <map to='#34844a'>
+              <bucket>&quot;Sullivan St &amp; Washington Sq&quot;</bucket>
+            </map>
+            <map to='#34844a'>
+              <bucket>&quot;Vesey Pl &amp; River Terrace&quot;</bucket>
+            </map>
+            <map to='#35854a'>
+              <bucket>&quot;Suffolk St &amp; Stanton St&quot;</bucket>
+            </map>
+            <map to='#35854b'>
+              <bucket>&quot;Myrtle Ave &amp; St Edwards St&quot;</bucket>
+            </map>
+            <map to='#35854b'>
+              <bucket>&quot;State St&quot;</bucket>
+            </map>
+            <map to='#35854b'>
+              <bucket>&quot;State St &amp; Smith St&quot;</bucket>
+            </map>
+            <map to='#35854b'>
+              <bucket>&quot;W 20 St &amp; 11 Ave&quot;</bucket>
+            </map>
+            <map to='#36864b'>
+              <bucket>&quot;Stanton St &amp; Chrystie St&quot;</bucket>
+            </map>
+            <map to='#36864b'>
+              <bucket>&quot;Stanton St &amp; Mangin St&quot;</bucket>
+            </map>
+            <map to='#37874b'>
+              <bucket>&quot;St Marks Pl &amp; 1 Ave&quot;</bucket>
+            </map>
+            <map to='#37874b'>
+              <bucket>&quot;St Marks Pl &amp; 2 Ave&quot;</bucket>
+            </map>
+            <map to='#37874c'>
+              <bucket>&quot;St James Pl &amp; Pearl St&quot;</bucket>
+            </map>
+            <map to='#38884c'>
+              <bucket>&quot;South St &amp; Whitehall St&quot;</bucket>
+            </map>
+            <map to='#38884c'>
+              <bucket>&quot;Spruce St &amp; Nassau St&quot;</bucket>
+            </map>
+            <map to='#38884c'>
+              <bucket>&quot;St James Pl &amp; Oliver St&quot;</bucket>
+            </map>
+            <map to='#39894c'>
+              <bucket>&quot;South End Ave &amp; Liberty St&quot;</bucket>
+            </map>
+            <map to='#39894c'>
+              <bucket>&quot;South St &amp; Gouverneur Ln&quot;</bucket>
+            </map>
+            <map to='#3a8a4c'>
+              <bucket>&quot;Shevchenko Pl &amp; E 6 St&quot;</bucket>
+            </map>
+            <map to='#3a8a4d'>
+              <bucket>&quot;S Portland Ave &amp; Hanson Pl&quot;</bucket>
+            </map>
+            <map to='#3a8a4d'>
+              <bucket>&quot;Sands St &amp; Gold St&quot;</bucket>
+            </map>
+            <map to='#3b8b4d'>
+              <bucket>&quot;S 3 St &amp; Bedford Ave&quot;</bucket>
+            </map>
+            <map to='#3b8b4d'>
+              <bucket>&quot;S 4 St &amp; Wythe Ave&quot;</bucket>
+            </map>
+            <map to='#3b8b4d'>
+              <bucket>&quot;S 5 Pl &amp; S 4 St&quot;</bucket>
+            </map>
+            <map to='#3c8c4d'>
+              <bucket>&quot;Rivington St &amp; Chrystie St&quot;</bucket>
+            </map>
+            <map to='#3c8c4d'>
+              <bucket>&quot;Rivington St &amp; Ridge St&quot;</bucket>
+            </map>
+            <map to='#3c8c4e'>
+              <bucket>&quot;Reade St &amp; Broadway&quot;</bucket>
+            </map>
+            <map to='#3d8d4e'>
+              <bucket>&quot;Pitt St &amp; Stanton St&quot;</bucket>
+            </map>
+            <map to='#3e8e4e'>
+              <bucket>&quot;Pershing Square S&quot;</bucket>
+            </map>
+            <map to='#3e8e4e'>
+              <bucket>&quot;Pike St &amp; E Broadway&quot;</bucket>
+            </map>
+            <map to='#3e8e4e'>
+              <bucket>&quot;Pike St &amp; Monroe St&quot;</bucket>
+            </map>
+            <map to='#3f8f4f'>
+              <bucket>&quot;Pearl St &amp; Hanover Square&quot;</bucket>
+            </map>
+            <map to='#3f8f4f'>
+              <bucket>&quot;Perry St &amp; Bleecker St&quot;</bucket>
+            </map>
+            <map to='#40904f'>
+              <bucket>&quot;Park Pl &amp; Church St&quot;</bucket>
+            </map>
+            <map to='#40904f'>
+              <bucket>&quot;Pearl St &amp; Anchorage Pl&quot;</bucket>
+            </map>
+            <map to='#41914f'>
+              <bucket>&quot;Old Fulton St&quot;</bucket>
+            </map>
+            <map to='#41914f'>
+              <bucket>&quot;Old Slip &amp; Front St&quot;</bucket>
+            </map>
+            <map to='#429250'>
+              <bucket>&quot;Nassau St &amp; Navy St&quot;</bucket>
+            </map>
+            <map to='#429250'>
+              <bucket>&quot;Norfolk St &amp; Broome St&quot;</bucket>
+            </map>
+            <map to='#439350'>
+              <bucket>&quot;Monroe St &amp; Classon Ave&quot;</bucket>
+            </map>
+            <map to='#439350'>
+              <bucket>&quot;Mott St &amp; Prince St&quot;</bucket>
+            </map>
+            <map to='#439350'>
+              <bucket>&quot;Murray St &amp; West St&quot;</bucket>
+            </map>
+            <map to='#439350'>
+              <bucket>&quot;University Pl &amp; E 14 St&quot;</bucket>
+            </map>
+            <map to='#439450'>
+              <bucket>&quot;Montague St &amp; Clinton St&quot;</bucket>
+            </map>
+            <map to='#449550'>
+              <bucket>&quot;Metropolitan Ave &amp; Bedford Ave&quot;</bucket>
+            </map>
+            <map to='#449550'>
+              <bucket>&quot;Monroe St &amp; Bedford Ave&quot;</bucket>
+            </map>
+            <map to='#459551'>
+              <bucket>&quot;Mercer St &amp; Spring St&quot;</bucket>
+            </map>
+            <map to='#459651'>
+              <bucket>&quot;Mercer St &amp; Bleecker St&quot;</bucket>
+            </map>
+            <map to='#469651'>
+              <bucket>&quot;Market St &amp; Cherry St&quot;</bucket>
+            </map>
+            <map to='#469751'>
+              <bucket>&quot;Madison St &amp; Montgomery St&quot;</bucket>
+            </map>
+            <map to='#469751'>
+              <bucket>&quot;Maiden Ln &amp; Pearl St&quot;</bucket>
+            </map>
+            <map to='#479751'>
+              <bucket>&quot;Madison St &amp; Clinton St&quot;</bucket>
+            </map>
+            <map to='#479851'>
+              <bucket>&quot;MacDougal St &amp; Washington Sq&quot;</bucket>
+            </map>
+            <map to='#479851'>
+              <bucket>&quot;Macon St &amp; Nostrand Ave&quot;</bucket>
+            </map>
+            <map to='#489852'>
+              <bucket>&quot;MacDougal St &amp; Prince St&quot;</bucket>
+            </map>
+            <map to='#489952'>
+              <bucket>&quot;Lispenard St &amp; Broadway&quot;</bucket>
+            </map>
+            <map to='#489952'>
+              <bucket>&quot;Little West St &amp; 1 Pl&quot;</bucket>
+            </map>
+            <map to='#499a52'>
+              <bucket>&quot;Lexington Ave &amp; E 26 St&quot;</bucket>
+            </map>
+            <map to='#499a52'>
+              <bucket>&quot;Liberty St &amp; Broadway&quot;</bucket>
+            </map>
+            <map to='#4a9a52'>
+              <bucket>&quot;Lexington Ave &amp; E 24 St&quot;</bucket>
+            </map>
+            <map to='#4a9b52'>
+              <bucket>&quot;Lefferts Pl &amp; Franklin Ave&quot;</bucket>
+            </map>
+            <map to='#4a9b52'>
+              <bucket>&quot;Lexington Ave &amp; Classon Ave&quot;</bucket>
+            </map>
+            <map to='#4b9c53'>
+              <bucket>&quot;Laight St &amp; Hudson St&quot;</bucket>
+            </map>
+            <map to='#4b9c53'>
+              <bucket>&quot;Lawrence St &amp; Willoughby St&quot;</bucket>
+            </map>
+            <map to='#4c9c53'>
+              <bucket>&quot;LaGuardia Pl &amp; W 3 St&quot;</bucket>
+            </map>
+            <map to='#4d9d53'>
+              <bucket>&quot;Lafayette St &amp; Jersey St&quot;</bucket>
+            </map>
+            <map to='#4e9d53'>
+              <bucket>&quot;Lafayette Ave &amp; St James Pl&quot;</bucket>
+            </map>
+            <map to='#4f9d53'>
+              <bucket>&quot;Lafayette Ave &amp; Fort Greene Pl&quot;</bucket>
+            </map>
+            <map to='#4f9e53'>
+              <bucket>&quot;Lafayette Ave &amp; Classon Ave&quot;</bucket>
+            </map>
+            <map to='#509e53'>
+              <bucket>&quot;Kent Ave &amp; S 11 St&quot;</bucket>
+            </map>
+            <map to='#519e53'>
+              <bucket>&quot;Joralemon St &amp; Adams St&quot;</bucket>
+            </map>
+            <map to='#519f53'>
+              <bucket>&quot;Johnson St &amp; Gold St&quot;</bucket>
+            </map>
+            <map to='#529f54'>
+              <bucket>&quot;Jay St &amp; Tech Pl&quot;</bucket>
+            </map>
+            <map to='#529f54'>
+              <bucket>&quot;John St &amp; William St&quot;</bucket>
+            </map>
+            <map to='#53a054'>
+              <bucket>&quot;Hudson St &amp; Reade St&quot;</bucket>
+            </map>
+            <map to='#54a054'>
+              <bucket>&quot;Hanover Pl &amp; Livingston St&quot;</bucket>
+            </map>
+            <map to='#54a054'>
+              <bucket>&quot;Hicks St &amp; Montague St&quot;</bucket>
+            </map>
+            <map to='#54a054'>
+              <bucket>&quot;Howard St &amp; Centre St&quot;</bucket>
+            </map>
+            <map to='#54a054'>
+              <bucket>&quot;Pershing Square N&quot;</bucket>
+            </map>
+            <map to='#55a054'>
+              <bucket>&quot;Henry St &amp; Poplar St&quot;</bucket>
+            </map>
+            <map to='#56a154'>
+              <bucket>&quot;Henry St &amp; Atlantic Ave&quot;</bucket>
+            </map>
+            <map to='#56a154'>
+              <bucket>&quot;Henry St &amp; Grand St&quot;</bucket>
+            </map>
+            <map to='#57a154'>
+              <bucket>&quot;Harrison St &amp; Hudson St&quot;</bucket>
+            </map>
+            <map to='#59a255'>
+              <bucket>&quot;Greenwich St &amp; Warren St&quot;</bucket>
+            </map>
+            <map to='#59a355'>
+              <bucket>&quot;Greenwich St &amp; N Moore St&quot;</bucket>
+            </map>
+            <map to='#5aa355'>
+              <bucket>&quot;Greenwich Ave &amp; Charles St&quot;</bucket>
+            </map>
+            <map to='#5ba355'>
+              <bucket>&quot;Greenwich Ave &amp; 8 Ave&quot;</bucket>
+            </map>
+            <map to='#5ba455'>
+              <bucket>&quot;Great Jones St&quot;</bucket>
+            </map>
+            <map to='#5ca455'>
+              <bucket>&quot;Grand St &amp; Havemeyer St&quot;</bucket>
+            </map>
+            <map to='#5da455'>
+              <bucket>&quot;Grand Army Plaza &amp; Central Park S&quot;</bucket>
+            </map>
+            <map to='#5da455'>
+              <bucket>&quot;Grand St &amp; Greene St&quot;</bucket>
+            </map>
+            <map to='#5ea555'>
+              <bucket>&quot;Gallatin Pl &amp; Livingston St&quot;</bucket>
+            </map>
+            <map to='#5fa555'>
+              <bucket>&quot;Fulton St &amp; Waverly Ave&quot;</bucket>
+            </map>
+            <map to='#5fa555'>
+              <bucket>&quot;Fulton St &amp; William St&quot;</bucket>
+            </map>
+            <map to='#60a656'>
+              <bucket>&quot;Fulton St &amp; Rockwell Pl&quot;</bucket>
+            </map>
+            <map to='#61a656'>
+              <bucket>&quot;Fulton St &amp; Grand Ave&quot;</bucket>
+            </map>
+            <map to='#62a656'>
+              <bucket>&quot;Fulton St &amp; Clermont Ave&quot;</bucket>
+            </map>
+            <map to='#62a756'>
+              <bucket>&quot;Front St &amp; Washington St&quot;</bucket>
+            </map>
+            <map to='#63a756'>
+              <bucket>&quot;Front St &amp; Maiden Ln&quot;</bucket>
+            </map>
+            <map to='#64a856'>
+              <bucket>&quot;Front St &amp; Gold St&quot;</bucket>
+            </map>
+            <map to='#65a856'>
+              <bucket>&quot;Franklin St &amp; W Broadway&quot;</bucket>
+            </map>
+            <map to='#67a956'>
+              <bucket>&quot;Forsyth St &amp; Canal St&quot;</bucket>
+            </map>
+            <map to='#68a956'>
+              <bucket>&quot;Flushing Ave &amp; Carlton Ave&quot;</bucket>
+            </map>
+            <map to='#68a956'>
+              <bucket>&quot;Forsyth St &amp; Broome St&quot;</bucket>
+            </map>
+            <map to='#69aa56'>
+              <bucket>&quot;FDR Drive &amp; E 35 St&quot;</bucket>
+            </map>
+            <map to='#6aaa56'>
+              <bucket>&quot;Emerson Pl &amp; Myrtle Ave&quot;</bucket>
+            </map>
+            <map to='#6baa56'>
+              <bucket>&quot;Elizabeth St &amp; Hester St&quot;</bucket>
+            </map>
+            <map to='#6cab56'>
+              <bucket>&quot;E 59 St &amp; Sutton Pl&quot;</bucket>
+            </map>
+            <map to='#6dab56'>
+              <bucket>&quot;E 58 St &amp; 3 Ave&quot;</bucket>
+            </map>
+            <map to='#6eac56'>
+              <bucket>&quot;E 56 St &amp; 3 Ave&quot;</bucket>
+            </map>
+            <map to='#6eac56'>
+              <bucket>&quot;E 56 St &amp; Madison Ave&quot;</bucket>
+            </map>
+            <map to='#6fac56'>
+              <bucket>&quot;E 55 St &amp; Lexington Ave&quot;</bucket>
+            </map>
+            <map to='#6fac56'>
+              <bucket>&quot;Hancock St &amp; Bedford Ave&quot;</bucket>
+            </map>
+            <map to='#6fac56'>
+              <bucket>&quot;Lafayette St &amp; E 8 St&quot;</bucket>
+            </map>
+            <map to='#70ad56'>
+              <bucket>&quot;E 55 St &amp; 2 Ave&quot;</bucket>
+            </map>
+            <map to='#71ad56'>
+              <bucket>&quot;E 53 St &amp; Madison Ave&quot;</bucket>
+            </map>
+            <map to='#72ad56'>
+              <bucket>&quot;E 53 St &amp; Lexington Ave&quot;</bucket>
+            </map>
+            <map to='#73ae56'>
+              <bucket>&quot;E 52 St &amp; 2 Ave&quot;</bucket>
+            </map>
+            <map to='#74ae56'>
+              <bucket>&quot;E 51 St &amp; 1 Ave&quot;</bucket>
+            </map>
+            <map to='#74ae56'>
+              <bucket>&quot;E 51 St &amp; Lexington Ave&quot;</bucket>
+            </map>
+            <map to='#75af56'>
+              <bucket>&quot;E 48 St &amp; 3 Ave&quot;</bucket>
+            </map>
+            <map to='#76af56'>
+              <bucket>&quot;E 47 St &amp; Park Ave&quot;</bucket>
+            </map>
+            <map to='#77b056'>
+              <bucket>&quot;E 47 St &amp; 2 Ave&quot;</bucket>
+            </map>
+            <map to='#78b056'>
+              <bucket>&quot;E 47 St &amp; 1 Ave&quot;</bucket>
+            </map>
+            <map to='#79b056'>
+              <bucket>&quot;E 45 St &amp; 3 Ave&quot;</bucket>
+            </map>
+            <map to='#79b156'>
+              <bucket>&quot;E 43 St &amp; Vanderbilt Ave&quot;</bucket>
+            </map>
+            <map to='#7ab156'>
+              <bucket>&quot;E 43 St &amp; 2 Ave&quot;</bucket>
+            </map>
+            <map to='#7bb156'>
+              <bucket>&quot;E 40 St &amp; 5 Ave&quot;</bucket>
+            </map>
+            <map to='#7cb257'>
+              <bucket>&quot;E 39 St &amp; 3 Ave&quot;</bucket>
+            </map>
+            <map to='#7db257'>
+              <bucket>&quot;E 39 St &amp; 2 Ave&quot;</bucket>
+            </map>
+            <map to='#7eb257'>
+              <bucket>&quot;E 37 St &amp; Lexington Ave&quot;</bucket>
+            </map>
+            <map to='#7fb257'>
+              <bucket>&quot;E 33 St &amp; 5 Ave&quot;</bucket>
+            </map>
+            <map to='#7fb357'>
+              <bucket>&quot;E 33 St &amp; 1 Ave&quot;</bucket>
+            </map>
+            <map to='#80b357'>
+              <bucket>&quot;E 32 St &amp; Park Ave&quot;</bucket>
+            </map>
+            <map to='#81b357'>
+              <bucket>&quot;E 31 St &amp; 3 Ave&quot;</bucket>
+            </map>
+            <map to='#82b457'>
+              <bucket>&quot;E 30 St &amp; Park Ave S&quot;</bucket>
+            </map>
+            <map to='#83b457'>
+              <bucket>&quot;E 27 St &amp; 1 Ave&quot;</bucket>
+            </map>
+            <map to='#84b457'>
+              <bucket>&quot;E 25 St &amp; 2 Ave&quot;</bucket>
+            </map>
+            <map to='#85b457'>
+              <bucket>&quot;E 25 St &amp; 1 Ave&quot;</bucket>
+            </map>
+            <map to='#85b557'>
+              <bucket>&quot;E 23 St &amp; 1 Ave&quot;</bucket>
+            </map>
+            <map to='#86b557'>
+              <bucket>&quot;E 20 St &amp; Park Ave&quot;</bucket>
+            </map>
+            <map to='#87b557'>
+              <bucket>&quot;E 20 St &amp; FDR Drive&quot;</bucket>
+            </map>
+            <map to='#88b557'>
+              <bucket>&quot;E 20 St &amp; 2 Ave&quot;</bucket>
+            </map>
+            <map to='#89b657'>
+              <bucket>&quot;E 19 St &amp; 3 Ave&quot;</bucket>
+            </map>
+            <map to='#8ab658'>
+              <bucket>&quot;E 16 St &amp; Irving Pl&quot;</bucket>
+            </map>
+            <map to='#8bb758'>
+              <bucket>&quot;E 16 St &amp; 5 Ave&quot;</bucket>
+            </map>
+            <map to='#8cb758'>
+              <bucket>&quot;E 15 St &amp; 3 Ave&quot;</bucket>
+            </map>
+            <map to='#8db758'>
+              <bucket>&quot;E 14 St &amp; Avenue B&quot;</bucket>
+            </map>
+            <map to='#8eb758'>
+              <bucket>&quot;E 13 St &amp; Avenue A&quot;</bucket>
+            </map>
+            <map to='#8eb858'>
+              <bucket>&quot;E 17 St &amp; Broadway&quot;</bucket>
+            </map>
+            <map to='#8eb858'>
+              <bucket>&quot;Franklin Ave &amp; Myrtle Ave&quot;</bucket>
+            </map>
+            <map to='#8fb858'>
+              <bucket>&quot;E 12 St &amp; 3 Ave&quot;</bucket>
+            </map>
+            <map to='#90b858'>
+              <bucket>&quot;E 11 St &amp; 2 Ave&quot;</bucket>
+            </map>
+            <map to='#90b858'>
+              <bucket>&quot;E 11 St &amp; Broadway&quot;</bucket>
+            </map>
+            <map to='#91b958'>
+              <bucket>&quot;E 11 St &amp; 1 Ave&quot;</bucket>
+            </map>
+            <map to='#92b958'>
+              <bucket>&quot;E 10 St &amp; Avenue A&quot;</bucket>
+            </map>
+            <map to='#93b958'>
+              <bucket>&quot;E 10 St &amp; 5 Ave&quot;</bucket>
+            </map>
+            <map to='#94b958'>
+              <bucket>&quot;E 9 St &amp; Avenue C&quot;</bucket>
+            </map>
+            <map to='#95ba58'>
+              <bucket>&quot;E 7 St &amp; Avenue A&quot;</bucket>
+            </map>
+            <map to='#96ba58'>
+              <bucket>&quot;E 6 St &amp; Avenue B&quot;</bucket>
+            </map>
+            <map to='#96ba58'>
+              <bucket>&quot;E 6 St &amp; Avenue D&quot;</bucket>
+            </map>
+            <map to='#97ba58'>
+              <bucket>&quot;E 5 St &amp; Avenue C&quot;</bucket>
+            </map>
+            <map to='#98bb59'>
+              <bucket>&quot;E 4 St &amp; 2 Ave&quot;</bucket>
+            </map>
+            <map to='#99bb59'>
+              <bucket>&quot;E 3 St &amp; 1 Ave&quot;</bucket>
+            </map>
+            <map to='#9abb59'>
+              <bucket>&quot;E 2 St &amp; Avenue C&quot;</bucket>
+            </map>
+            <map to='#9bbb59'>
+              <bucket>&quot;E 2 St &amp; Avenue B&quot;</bucket>
+            </map>
+            <map to='#9cbc59'>
+              <bucket>&quot;E 2 St &amp; 2 Ave&quot;</bucket>
+            </map>
+            <map to='#9dbc59'>
+              <bucket>&quot;Duffield St &amp; Willoughby St&quot;</bucket>
+            </map>
+            <map to='#9ebc59'>
+              <bucket>&quot;Duane St &amp; Greenwich St&quot;</bucket>
+            </map>
+            <map to='#9fbc59'>
+              <bucket>&quot;Division St &amp; Bowery&quot;</bucket>
+            </map>
+            <map to='#9fbd59'>
+              <bucket>&quot;DeKalb Ave &amp; Vanderbilt Ave&quot;</bucket>
+            </map>
+            <map to='#a0bd59'>
+              <bucket>&quot;DeKalb Ave &amp; Skillman St&quot;</bucket>
+            </map>
+            <map to='#a1bd59'>
+              <bucket>&quot;DeKalb Ave &amp; S Portland Ave&quot;</bucket>
+            </map>
+            <map to='#a2bd5a'>
+              <bucket>&quot;DeKalb Ave &amp; Hudson Ave&quot;</bucket>
+            </map>
+            <map to='#a3be5a'>
+              <bucket>&quot;Dean St &amp; 4 Ave&quot;</bucket>
+            </map>
+            <map to='#a4be5a'>
+              <bucket>&quot;Cumberland St &amp; Lafayette Ave&quot;</bucket>
+            </map>
+            <map to='#a5be5a'>
+              <bucket>&quot;Concord St &amp; Bridge St&quot;</bucket>
+            </map>
+            <map to='#a6be5a'>
+              <bucket>&quot;Columbia St &amp; Rivington St&quot;</bucket>
+            </map>
+            <map to='#a7bf5a'>
+              <bucket>&quot;Columbia Heights &amp; Cranberry St&quot;</bucket>
+            </map>
+            <map to='#a8bf5a'>
+              <bucket>&quot;Clinton St &amp; Tillary St&quot;</bucket>
+            </map>
+            <map to='#a9bf5a'>
+              <bucket>&quot;Clinton St &amp; Grand St&quot;</bucket>
+            </map>
+            <map to='#a9bf5a'>
+              <bucket>&quot;Clinton St &amp; Joralemon St&quot;</bucket>
+            </map>
+            <map to='#aac05a'>
+              <bucket>&quot;Clinton Ave &amp; Myrtle Ave&quot;</bucket>
+            </map>
+            <map to='#abc05a'>
+              <bucket>&quot;Clinton Ave &amp; Flushing Ave&quot;</bucket>
+            </map>
+            <map to='#acc05b'>
+              <bucket>&quot;Cliff St &amp; Fulton St&quot;</bucket>
+            </map>
+            <map to='#aec15b'>
+              <bucket>&quot;Clermont Ave &amp; Park Ave&quot;</bucket>
+            </map>
+            <map to='#afc15b'>
+              <bucket>&quot;Cadman Plaza E &amp; Red Cross Pl&quot;</bucket>
+            </map>
+            <map to='#afc15b'>
+              <bucket>&quot;Clermont Ave &amp; Lafayette Ave&quot;</bucket>
+            </map>
+            <map to='#afc15b'>
+              <bucket>&quot;Cleveland Pl &amp; Spring St&quot;</bucket>
+            </map>
+            <map to='#b0c15b'>
+              <bucket>&quot;Clark St &amp; Henry St&quot;</bucket>
+            </map>
+            <map to='#b1c15b'>
+              <bucket>&quot;Church St &amp; Leonard St&quot;</bucket>
+            </map>
+            <map to='#b2c15b'>
+              <bucket>&quot;Christopher St &amp; Greenwich St&quot;</bucket>
+            </map>
+            <map to='#b3c25b'>
+              <bucket>&quot;Centre St &amp; Worth St&quot;</bucket>
+            </map>
+            <map to='#b3c25b'>
+              <bucket>&quot;Cherry St&quot;</bucket>
+            </map>
+            <map to='#b4c25b'>
+              <bucket>&quot;Centre St &amp; Chambers St&quot;</bucket>
+            </map>
+            <map to='#b5c25b'>
+              <bucket>&quot;Central Park S &amp; 6 Ave&quot;</bucket>
+            </map>
+            <map to='#b6c35c'>
+              <bucket>&quot;Catherine St &amp; Monroe St&quot;</bucket>
+            </map>
+            <map to='#b7c35c'>
+              <bucket>&quot;Carmine St &amp; 6 Ave&quot;</bucket>
+            </map>
+            <map to='#b8c35c'>
+              <bucket>&quot;Carlton Ave &amp; Park Ave&quot;</bucket>
+            </map>
+            <map to='#b9c35c'>
+              <bucket>&quot;Canal St &amp; Rutgers St&quot;</bucket>
+            </map>
+            <map to='#bac45c'>
+              <bucket>&quot;Cadman Plaza E &amp; Tillary St&quot;</bucket>
+            </map>
+            <map to='#bcc45c'>
+              <bucket>&quot;Broadway &amp; W 60 St&quot;</bucket>
+            </map>
+            <map to='#bdc45c'>
+              <bucket>&quot;Broadway &amp; W 58 St&quot;</bucket>
+            </map>
+            <map to='#bec45d'>
+              <bucket>&quot;Broadway &amp; W 55 St&quot;</bucket>
+            </map>
+            <map to='#bfc55d'>
+              <bucket>&quot;Broadway &amp; W 53 St&quot;</bucket>
+            </map>
+            <map to='#c0c55d'>
+              <bucket>&quot;Broadway &amp; W 51 St&quot;</bucket>
+            </map>
+            <map to='#c1c55d'>
+              <bucket>&quot;Broadway &amp; W 49 St&quot;</bucket>
+            </map>
+            <map to='#c2c55d'>
+              <bucket>&quot;Broadway &amp; W 41 St&quot;</bucket>
+            </map>
+            <map to='#c3c55d'>
+              <bucket>&quot;Broadway &amp; W 39 St&quot;</bucket>
+            </map>
+            <map to='#c3c65d'>
+              <bucket>&quot;Broadway &amp; W 37 St&quot;</bucket>
+            </map>
+            <map to='#c4c65d'>
+              <bucket>&quot;Broadway &amp; W 36 St&quot;</bucket>
+            </map>
+            <map to='#c5c65e'>
+              <bucket>&quot;Broadway &amp; W 32 St&quot;</bucket>
+            </map>
+            <map to='#c6c65e'>
+              <bucket>&quot;Broadway &amp; W 29 St&quot;</bucket>
+            </map>
+            <map to='#c7c75e'>
+              <bucket>&quot;Broadway &amp; W 24 St&quot;</bucket>
+            </map>
+            <map to='#c8c75e'>
+              <bucket>&quot;Broadway &amp; E 22 St&quot;</bucket>
+            </map>
+            <map to='#cac75e'>
+              <bucket>&quot;Broadway &amp; Berry St&quot;</bucket>
+            </map>
+            <map to='#cbc75e'>
+              <bucket>&quot;Broadway &amp; Battery Pl&quot;</bucket>
+            </map>
+            <map to='#ccc85e'>
+              <bucket>&quot;Broad St &amp; Bridge St&quot;</bucket>
+            </map>
+            <map to='#cdc85f'>
+              <bucket>&quot;Bond St &amp; Schermerhorn St&quot;</bucket>
+            </map>
+            <map to='#cec85f'>
+              <bucket>&quot;Bialystoker Pl &amp; Delancey St&quot;</bucket>
+            </map>
+            <map to='#d0c85f'>
+              <bucket>&quot;Bayard St &amp; Baxter St&quot;</bucket>
+            </map>
+            <map to='#d1c95f'>
+              <bucket>&quot;Barrow St &amp; Hudson St&quot;</bucket>
+            </map>
+            <map to='#d1c95f'>
+              <bucket>&quot;Bedford Ave &amp; S 9th St&quot;</bucket>
+            </map>
+            <map to='#d1c95f'>
+              <bucket>&quot;Broadway &amp; E 14 St&quot;</bucket>
+            </map>
+            <map to='#d2c95f'>
+              <bucket>&quot;Barclay St &amp; Church St&quot;</bucket>
+            </map>
+            <map to='#d3c95f'>
+              <bucket>&quot;Bank St &amp; Hudson St&quot;</bucket>
+            </map>
+            <map to='#d3c95f'>
+              <bucket>&quot;Bank St &amp; Washington St&quot;</bucket>
+            </map>
+            <map to='#d4c95f'>
+              <bucket>&quot;Avenue D &amp; E 12 St&quot;</bucket>
+            </map>
+            <map to='#d5ca60'>
+              <bucket>&quot;Avenue D &amp; E 8 St&quot;</bucket>
+            </map>
+            <map to='#d6ca60'>
+              <bucket>&quot;Avenue D &amp; E 3 St&quot;</bucket>
+            </map>
+            <map to='#d7ca60'>
+              <bucket>&quot;Atlantic Ave &amp; Furman St&quot;</bucket>
+            </map>
+            <map to='#d8ca60'>
+              <bucket>&quot;Atlantic Ave &amp; Fort Greene Pl&quot;</bucket>
+            </map>
+            <map to='#d9cb60'>
+              <bucket>&quot;Ashland Pl &amp; Hanson Pl&quot;</bucket>
+            </map>
+            <map to='#dacb61'>
+              <bucket>&quot;Allen St &amp; Rivington St&quot;</bucket>
+            </map>
+            <map to='#dbcb61'>
+              <bucket>&quot;Allen St &amp; Hester St&quot;</bucket>
+            </map>
+            <map to='#dccb61'>
+              <bucket>&quot;Allen St &amp; E Houston St&quot;</bucket>
+            </map>
+            <map to='#ddcb61'>
+              <bucket>&quot;Adelphi St &amp; Myrtle Ave&quot;</bucket>
+            </map>
+            <map to='#decc61'>
+              <bucket>&quot;12 Ave &amp; W 40 St&quot;</bucket>
+            </map>
+            <map to='#dfcc61'>
+              <bucket>&quot;11 Ave &amp; W 41 St&quot;</bucket>
+            </map>
+            <map to='#e0cc62'>
+              <bucket>&quot;11 Ave &amp; W 27 St&quot;</bucket>
+            </map>
+            <map to='#e1cc62'>
+              <bucket>&quot;10 Ave &amp; W 28 St&quot;</bucket>
+            </map>
+            <map to='#e2cc62'>
+              <bucket>&quot;9 Ave &amp; W 45 St&quot;</bucket>
+            </map>
+            <map to='#e3cd62'>
+              <bucket>&quot;9 Ave &amp; W 18 St&quot;</bucket>
+            </map>
+            <map to='#e3cd62'>
+              <bucket>&quot;9 Ave &amp; W 22 St&quot;</bucket>
+            </map>
+            <map to='#e4cd63'>
+              <bucket>&quot;9 Ave &amp; W 16 St&quot;</bucket>
+            </map>
+            <map to='#e5cd63'>
+              <bucket>&quot;9 Ave &amp; W 14 St&quot;</bucket>
+            </map>
+            <map to='#e6ce63'>
+              <bucket>&quot;8 Ave &amp; W 52 St&quot;</bucket>
+            </map>
+            <map to='#e7ce63'>
+              <bucket>&quot;8 Ave &amp; W 33 St&quot;</bucket>
+            </map>
+            <map to='#eace64'>
+              <bucket>&quot;6 Ave &amp; W 33 St&quot;</bucket>
+            </map>
+            <map to='#ebcf64'>
+              <bucket>&quot;6 Ave &amp; Canal St&quot;</bucket>
+            </map>
+            <map to='#eccf64'>
+              <bucket>&quot;6 Ave &amp; Broome St&quot;</bucket>
+            </map>
+            <map to='#edcf64'>
+              <bucket>&quot;5 Ave &amp; E 29 St&quot;</bucket>
+            </map>
+            <map to='#eecf64'>
+              <bucket>&quot;3 Ave &amp; Schermerhorn St&quot;</bucket>
+            </map>
+            <map to='#efcf65'>
+              <bucket>&quot;2 Ave &amp; E 58 St&quot;</bucket>
+            </map>
+            <map to='#f0d065'>
+              <bucket>&quot;2 Ave &amp; E 31 St&quot;</bucket>
+            </map>
+            <map to='#f1d065'>
+              <bucket>&quot;1 Ave &amp; E 44 St&quot;</bucket>
+            </map>
+            <map to='#f2d065'>
+              <bucket>&quot;1 Ave &amp; E 30 St&quot;</bucket>
+            </map>
+            <map to='#f3d065'>
+              <bucket>&quot;1 Ave &amp; E 18 St&quot;</bucket>
+            </map>
+            <map to='#f4d166'>
+              <bucket>&quot;1 Ave &amp; E 15 St&quot;</bucket>
+            </map>
+            <map to='#f4d166'>
+              <bucket>&quot;7 Ave &amp; Farragut St&quot;</bucket>
+            </map>
+            <map to='#f4d166'>
+              <bucket>&quot;8 Ave &amp; W 31 St&quot;</bucket>
+            </map>
+          </encoding>
         </style-rule>
       </style>
       <semantic-values>
@@ -22845,8 +22845,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='900' minheight='900' sizing-mode='vscroll' />
           <zones>
-            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='47' w='100000' x='0' y='0'>
-              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='84000' id='46' param='vert' w='84000' x='8000' y='8000'>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='49' w='100000' x='0' y='0'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='84000' id='48' param='vert' w='84000' x='8000' y='8000'>
                 <zone fixed-size='280' h='49000' id='10' is-fixed='true' name='Avg trip duration by age' w='49200' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -22896,7 +22896,7 @@
             <zone _.fcp.SetMembershipControl.false...type='title' _.fcp.SetMembershipControl.true...type-v2='title' h='3423' id='3' w='98426' x='787' y='830' />
             <zone _.fcp.SetMembershipControl.false...type='flipboard-nav' _.fcp.SetMembershipControl.true...type-v2='flipboard-nav' h='10477' id='4' is-fixed='true' paired-zone-id='5' removable='false' w='98426' x='787' y='4253' />
             <zone _.fcp.SetMembershipControl.false...type='flipboard' _.fcp.SetMembershipControl.true...type-v2='flipboard' h='84440' id='5' paired-zone-id='4' removable='false' w='98426' x='787' y='14730'>
-              <flipboard active-id='3' nav-type='caption' show-nav-arrows='true'>
+              <flipboard active-id='1' nav-type='caption' show-nav-arrows='true'>
                 <story-points>
                   <story-point caption='New York City ' captured-sheet='NYC City Map' id='1'>
                     <capturedDeltas>
@@ -22975,8 +22975,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1200' minheight='1200' sizing-mode='vscroll' />
           <zones>
-            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='41' w='100000' x='0' y='0'>
-              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='84000' id='40' param='vert' w='84000' x='8000' y='8000'>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='43' w='100000' x='0' y='0'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='84000' id='42' param='vert' w='84000' x='8000' y='8000'>
                 <zone fixed-size='280' h='43750' id='3' is-fixed='true' name='Top 10 Starting Stations' w='49200' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -23104,8 +23104,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1100' minheight='1100' sizing-mode='vscroll' />
           <zones>
-            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='51' w='100000' x='0' y='0'>
-              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='84000' id='50' param='vert' w='84000' x='8000' y='8000'>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='53' w='100000' x='0' y='0'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='84000' id='52' param='vert' w='84000' x='8000' y='8000'>
                 <zone fixed-size='280' h='49000' id='3' is-fixed='true' name='Summer Peak hrs' w='49200' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -25322,236 +25322,481 @@
     </thumbnail>
     <thumbnail height='192' name='NYC City - Bike Stations Info' width='192'>
       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
-      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
+      AAAgAElEQVR4nOy9d5gc1ZX3/6mqzmF6oiZrlDPKQgSDJGRycAKMbWySbXBYx/XuOr22313z
+      rgN41wHbmB/exbBesxgwwYC9gJBMFEEoS6M8o5FGk2c6d1fd3x/Vt6a6p2c0oUcam/k+j57W
+      dKi6VXXPvSd8zzmKEEIwiUm8Q6Ge7gFMYhKnE5MCMIl3NCakACSTSSayZtbb24thGKd7GJMo
+      ALRvf/vb35Z/fP3rX6e2tha/389jjz3Gxo0bWbRoEY2NjWzfvp10Os3dd9/Nq6++ytlnn42i
+      KGzevJkHHniA7du3EwwGaW9v58CBA5SUlOB0Ooc8eVNTE3fccQc7duygra2NUCjEjh07eOaZ
+      ZzjjjDNwOBx5f/f000/z5JNP8uKLL3LOOeewYcMGpk2bNuB78v09e/bQ3t5OeXn5sG9MPB7n
+      oYceYtGiRVnvP/nkk/zlL39hyZIlg45vEn89yHqCZWVlPP7443z605+mq6uLdevW8eCDD3Ls
+      2DG+9KUv8cMf/pCvfOUrWQ/+6aef5hvf+AaKotDY2Eg6nea+++5j7ty5LFu2DI/Hw6JFi3ju
+      uee47LLLsk6eSCRYsWIF69ev5xe/+AWrV6+2Vn4hBL/97W+59NJLuf/++9E0jU9+8pNomsZb
+      b73Fxz/+ccrLy9m9ezf3338/x48fZ8WKFTz77LMArF27Nut9wzB47bXXeOWVV6irq2Pt2rXc
+      e++96LrO5ZdfzuHDh2lqamLlypWsXLkSwzDo6upi//79PP7440SjUa655hr+8Ic/sGLFCo4d
+      O8bDDz+Mx+Ph1ltvRdO08X5WkxgHZKlADoeDBQsWsHXrVgDmzp1Lc3MzK1aswOl04nA4Bqx6
+      Ho8HRVEA6Orqoru7m9WrV3P99ddz9tln8+c//5lNmzZRW1sLwMaNG3nssces32/YsIE77riD
+      mTNnEo/HaWlpAeDHP/4xS5Ys4c9//jNTp05FURS2bdsGwM0338x//dd/cccddzB37lyWLFnC
+      ddddR3V1NVVVVWzfvp2amhrr/a6uLjo7O9m4cSOf+9znaG5upre3l6lTp3LLLbfw1ltvsXv3
+      bhoaGliwYEHW9XV3d7NixQquuOIKjhw5wrJly7jpppv44x//yK233sqiRYt44403CvlMJnEK
+      McAGuOSSS3j66aetv2fMmMG8efPML6sqhw8fprOz01qpY7EYHR0ddHR0WL9xOBxEIhFUVaWm
+      poZNmzaxePFiAFavXs1FF11kfXfNmjV85StfsYROYubMmezfvx+v10s6neb888+npqYGMAXt
+      M5/5DEIIotEoiUQCIQQPPPAAZ599NvPmzcMwDOt9CcMwSKVSxGIxNE1DVVVU1bwFH/vYx2ho
+      aOCee+4ZeJNUdcAK7/F46Ovro6enB6/XO5x7PYkJiCwbAKC+vp7S0lKqqqqorq4GYMqUKbjd
+      bpYtW8aTTz7Jrl27WLZsGYqisHjxYh5++GGOHTvGwoULKSoqYs6cOTzyyCPU1dVRU1NDd3c3
+      y5cvBxiwi2zevJmdO3dy1VVXUVpaitvtpqKigjVr1tDa2srZZ5/Njh07aGpqYtGiRXg8Hvbs
+      2cPjjz/O8uXLmT17NoZhsGnTJtasWcMTTzxBZWUlCxYsQFVVS/iKioqYP38+Dz74IGeddRZT
+      p061zuV0Otm/fz9btmzh4osvprS0FMAS4GAwSCgUIhAIUFxcTG1tLXPnzuWRRx7B5XKxZs0a
+      axecxF8XlPEMhKVSKX7+859zww03EAqFxus0k5jEqDGuAjCJSUx0TMg4wCQmcaowKQCTeEdj
+      UgAm8Y7GZChzEHR2dtLZ2Xm6hzEAtbW1xGKx0z2MAfB6vRNyXNKjNxgmd4BJvKMxKQCTeEdj
+      UgUaBp566ilmz55NaWkpuq5bkV9N09i/fz+qquLxeJgyZQrRaJTOzk7q6upoampC0zScTict
+      LS0sXboUAL/fX5Bx7d27l4qKCtLpNEVFRYTDYcrKymhsbGTatGkcPnyYyspKDMPA5XLR19dH
+      aWkpLS0tlJWV0dbWhqZphEIhVFWlvb0dIQSVlZUkk0lUVSWRSBAIBDAMg+7ublRVJZ1OU19f
+      P+i4Dh06hKZpFBcXE4vFCAQCJBIJSkpKADMi39jYyPTp0wGTTeB0Oq3ofVFREV1dXRQXFxOJ
+      RKzfjQcmBWAYKC4u5uWXX6a4uJhAIMCxY8dwOp1cfPHFxGIxqqqqOHbsGG+++Sbz58/n2Wef
+      5ROf+ASRSISVK1fy1ltv4Xa72bFjB5qmsWLFioKMy+/3oygKmqaxfft2KioqKC0txe/3Ew6H
+      qa6upru7G0VROHHiBC6Xi+3bt1NdXY1hGMRiMYvWLYSwIvSS1iKEQAhBMpmktraWnp4eDMOw
+      6CODQR5X0zQOHDhgCWkwGKSvr49oNEo4HObEiROAaW/puk51dTWJRIL9+/czdepUdu/ejaZp
+      kwJwujF9+nS8Xi9erxe3282UKVMAKCoqYtq0aRQXF9Pa2soZZ5zBtGnT8Hq99Pb2UlVVxa5d
+      u6iurubEiROEw2Fmz55dsHEFg0H8fj9NTU2UlJSgqiqKopBKpQgGg7S2tlJXV0dXVxehUAiv
+      10sgEKCnp4fi4mKKi4vRNA3DMHC73cTjcRwOB4qikEwmCQaD1rkikYj1nq7rQ45LHtfr9TJ/
+      /nwSiQSKouBwOCgpKUHTNCoqKojFYqRSKcrLy3E4HJSWltLa2kptbS379+9nzpw5pNPpgt2v
+      fJiMBA+C8fACxeNxPB7PmI4xmBdI1/XTSskupBdICEEqlcLlco35WJNeoAmEsU7+fEgkEtbk
+      l/8/3e7IlpYW2trarHFEo9ER/V5RlIJM/uFgUgX6K8aWLVvw+/2WupNOp6mtrSUcDiOEIJFI
+      WJTviooKysrKTsm45LnT6TQ7duzA7/dTXV1NY2MjXq8XRVEIBoOoqsqBAwdYvnw5gUDglIwt
+      F5MC8FeMqqoqS7/2+Xy43W4URcHr9VreG6nHn8pdIZVK4XA4cDqdVFVVkUql0HWdkpISDMOg
+      vLzcEs6qqqpTttrnw6QNMAgmI8Ejw2QkeBKT+CvEpABM4h2NSQGYxDsakwIwiXc0JgVgEu9o
+      TArAJN7RmIwDDAKv13tSF9rpgMPhmJB1iCbquE6GyTjAJN7RmFSBJvGOxqQATOIdjUkBmMQ7
+      GpMCMIl3NAZ4gaLRaN6Mn5OlwY0U0vYer6KyMp1PnmOiFK8VQmAIA1VR845JpjgWCoYw0NP9
+      z3Mk90EIgUCgMPA39j4O5oEB+V9FsWjYhmEghCjY/R/L/ZFjtWeZ5RUAeSLDMEin06iqaqXK
+      FQqnQgCkIGuaNmEEIJ1Ok0qlcLvdeRcVSWsuFHp6e0kk4gAoDH/yCCFI62lUVUMBdENHznJ5
+      b+X9lQuMnOhyriiKihBmbrCqFGYBdTqd+Hy+vOOVGOxZy0VRN3QikQgwSBxA13WEENbElz8u
+      5CQa7wkpH8REg7yvudcv20m53e6C3et0Ok0sblKUFUa2i+uGjkNzWBM7M3rruDKZ3j75By6U
+      AkVRCzb5h4JhGFbK6WBCLsfq9Xhxu9xEYtGBApBKpawLMgyj4Cv/Ox35tnCZxCIF1j65xoJI
+      NIICODTHiIVKVVTSuo6qKgiBpeLYVUvIVoVyjy+EwFHgPOVUKjWgMoXckdLp9LCaK0r1LBQs
+      GtoIll1UTqcOPR55tKcTUj+2389AIGBVZwDy7hDDRSKZJJFIkEgmSafT1rMb6TFVVbUmrxAG
+      CFMwpXagKAoetydLuHLPMZbrGAwy3dIOwzBQFAW/3z9i+2DADmDX40534ze5rcoLhPFXncYb
+      uZPC5XJZ6k8hrs2dSS+UaYhjUT8URUFFxSCzI6FkrfjJVBKX04UhjAGLpBACTS38/JG2qR32
+      RXqk93DA3ZH9sArt9Rkt5Lb2t9KXN/cB5TPoxgohBOFIuCC2hFx8nE4nmkPLeg7SUNY0bcBi
+      OR6rv4TdBoH8u+pwMWAHyHcxpwtyZbQ/SOlWg36j7q9tV5A2ltfrHRf3cjKZJJVKjXkSWi5b
+      VcPlcpFMJAd8LnfpLJ0c0MbR8JX6vtPpHNLjk0gkLEGRSfq53x8gABNlMsnBhsNhwJzsUv+U
+      AiDr4UwUgR0uioqKLAdDoRGNRYlEIgVRQXTDQFFV/H7/oMZlPqNYU8fX7awbOjFbFbt8YwqH
+      w6RSqaz3VVWlqKjIElYhxMSLBEt1Rwhh+WqBAVuvYRhW29OJrh7ZJ4l00w21eo0WhmEQzVRm
+      GKvjwhAGQhioNt06X4A0V82S6sh4QT77ZDIx6HfkDpgLwzCIRqOWMR8OhydmPoCu66RSqayJ
+      o6qq9XfuanSy7XAiQE6U8ayBE41FEZnFY6yrv9T9sxaXjAtX0zRrguW6I8d7NzZsAdR8u5Ls
+      HT0YpHDI305IAbCvIrmqT76LlrvBeBpeY4UcV29vL8XFxeOi+8disbw6+UiRS18wd9okqqIQ
+      KgphZJ5DPJ5dB2i8g17SJgHw+/x5n3U8Hj9pLMD++YRTgcCcLHJVt+tr8jP7q4Su61kG8kTF
+      WCfnYIjF+yf/WFZ/Ocns9zeZTJJMJtEN3YwFK5BOp6ygnsvlyuw64zudDGGggKVC5ruPyWRy
+      4A+HwIQTAKnj5epwdgHIt9LL30gX2UQSBLs+bhgGvb29Yx6ffTeUuq1Dc4xd9ckQ4OxIpfon
+      VSwWJR6LWfaA2+2BMbghhwu7bejz+QddRE5Wuj0XE04Fst/IfHqe/Exu0bmfyxsgXagTEWOl
+      l+QyMSPRaF7G5miOaxj6gIBWLu/H/nkiEUfXTd7QqYDb7caVoxnYx6Np2oiEYMIJgIS8qNwG
+      CfaOJif77UTFWA1heU/kYiEMoyDXnKv6wED6g50eIz8/FbaXEAK3y43fl013kJqCvKcOh8Oi
+      gAwHE1YA8q38+cLguRhvN9xYoGkafr9/zP5/6YWRxn8huqjIlT534th3XPvOY6eYnwq2p6qq
+      +Hw+67xCCGLxGJFIhGCwyPqedDPLXgknw4QUAGnM2R+sNB4H8wTJ70wk7r+EqqoWj70QY1NV
+      1aJNd3d3D/ndwdyFudCH2EVyF5UsQRjnoJd83sFg0Np9hBB0dXdZ7kw1RwXSNA2Px0MqlSIS
+      iQy5aE7IpVKuMHYeisPhyOIp5W67+bbniQCn00koFLIa2o0FuRM5Go0OObmvu+eLLP2Xq9jQ
+      +NpJjyvE4JNE0zQcDodJkHRoKKqSSZApfKZgvrHJXVOqPn3hPsvucDoGj/8MJ0g6IQVA3lTJ
+      35CrupzkUiDsxmQ+oZgIkE0rCgFd14nH45bqk0sLtkNRFPa0HgBgb+vBQb8DJrVgqNVf7gC5
+      3KvxYHvaIYTA4/FkuTzj8bjZwjWTUjpYZh0wLFUzLx36VGColEj7pB7sM7m1y51iok7+QkV+
+      dV23VJ9khvM/FIQQ/Ojar7O39SAfXnXFgM+PnniEEx0bmFH/CXyeuUMKQNbfKBZBbrwpD1KV
+      kQtgOp0mGo1aNocQApfLNSD6LOfWcHqTDRAA2d91PCE9C9CfdGPHcF1Z9phAPh31VAvEyYJ1
+      Y4E0fOXEkDRx3TDQ8gj/3hOH2Nt6kLVzVhNwD2zMHYsfBSCeOIrfO++k589i4AoF5zi6PaXe
+      7/V6s2w6KfRyLLkJMJIJG43HMNKD72p25N0BhtMMebSQ6Wv2CW73LcttLx6PD1sI8iVjyM9O
+      FXKNc9k9vhCQhQmcTqdF81UUUw9X1ey4iMQP/nwPrx/exubD2/jVR/5lwDHrKt9PT3gbpaF3
+      DWsMeiYKqwjFTJQfZ8PX7XZn8bvkrievU2bRSQGQDNBoPGbmPw9SdSMXA2a5nKDjoQoJIUin
+      0wOqCdjhcDgsMtxwMBjr8XSqQ4qiFDTRRe6IMswvq0aoqsr1v/4yK//1fWzctznr/POqZgAw
+      r3J63mO6nGb39bTePbxnLaPOp4DyIFUfe6zBzgy2G8WGYRAOh+np6TGb86kaMHwmbF4BkEZW
+      IZFv8suLsA/W4/FY3o3RCuFQ9sB4CriiKAgEDofD4seMFbLdqNPpxOl0kkqlrDaoqqKyJ2Pg
+      7j1hvn743i+y/Pb3sKrhDLZ8/TG+/O5b8h63rWsjx078kaOtj2RV/pDXYRm6msNa8YUwk9zH
+      e3Hx+XxZz1CS/OTOID2Cuq7T2d1FNBa1XOaKooxojHlFudBCkE/tke/bB+p2u4lEIui6PmY+
+      +2AwMmSvtD68CgLDhQzSCSFQMg+vELaUy+UilUrR15dx/Tkc1u4ohODOq7/Gbed/iA+tvDLj
+      +TEFYU/rAYQQPLHteT75wDd4YtvzWcf1umsB8HlqUVBMHpGmIUiy/+iv2X/01wiRwOVyWQQ7
+      +W+8YBiGZdRKFTydTlu6v3QCyFhAb18vht5P0BsNBrVk7PTjQvqvZZK7/RxgTv5o1JRkKeHj
+      AVVRUDQNRGHVJDuL0jD0gthR0vPj8/nQdd1aHOxYM/tM1sw+0xrDnVd/jb0nDvKhlVcC8NjW
+      Z3n98DYArjhjnfU7w4gR9M+mNLTaek9VVCKJY3T2bgWgtmI9Qa2ceIZpOp5BLxn8lBNc7jhS
+      9TFJcD5rYYzFYpZKOJbCW3kFQD64QlZjsG+vUqe1HzOVSll5rIUSvHxQFMUkjp3k0CM9v4yk
+      mr9TCyIAiqIQj8ctyrHf76enp2fI39gF4sntz7O39SBBj5+rFq/P+l5H96uEI/voDW/D466x
+      3vd5aigtWgyAx1XNn/f8ESEE76pfO+5BL+nVkedJJpM21mm/6iOLYKmqhsiUmRwtBt0B5Ilk
+      3u1oJ6M8hrwQXddxOp1Zao6dcShfT1eerxACj9drudSGQzTTDQPD0C3h1fX0mPk+sXgMl9OF
+      1+tF13VisViWnivHOhQe2/os4USEFQ2LuHLROei9/4virEHxLqCs+CwAigJnZP3GofmYO/UT
+      CCHY39XI73f8DoDaonpmlswe0zUNBbfbnTX5JcUbzOu1xwOkDWQa42MTyrxPKZcYNVZd2W5L
+      SMNX1q2Rq32+YIadx3KqvDqao/8heL1eEok4hj64LWSqPf27pqqqBALBMY1BMh8jMZPm7PN6
+      cblcxGIxjve28ZF7vwTAAzffSVVRxaDHkav+VYvXo/dtItX1JwCS5TdwpOV+vJ7arNX/WG8b
+      193zeQD+++P/Tqm3DK/DbHtU6i0b0zUNBU3TsnhS0qVpjwfIxTKVSo046WUoDKwKkSmFJ6db
+      ISOsLpfLcnG6XC6SyWRW2Qq32235uHN3hlMV6TV0M7FG0iyGmvxgRkZ1Q8fn96MpKg6nA2cB
+      qj0IIfB7fSSSCTo6Oyzj81hPG+FExPp/VVEF//bcr9nbepAvvvtmZldMs45x+aJ1XLl4vWmc
+      x3YCoLpq6OkzdXwZDJM41nOCvnjE+v/y+oX860X/Zo1nPCDjPnanR19fnxXos5czEWLofN/R
+      IG9ZFBlc0TQH6jDZhENBkqnsE15euN2oSyQSpidCZJc+keM6VbtAKmWWFZRjGeq85rhUHJoD
+      TwGqOsvrlj7uRCKZdf5l9Qv4Usa1uax+AYqi8NvNjwOwsfG1LAH40bO/5r82P8aHV13FF9ff
+      hGfaD+joeoGu4w8DML3+41nnXl6/kK9c9Anr/3I89gWpkDAMI2/Ay84ClrWTVFUlZstEKxQG
+      LlWyEGpmgGqGfDYU59xutOZOFq/Xa6UqSjVHulhNQ8ZUHaTHw24ryO+e6qCWggJCkM4UCj4Z
+      PG53QSY/9OdDy/tt5Clv+MEVl1v/F0LwoVVXsrf1IOdnjF8JSYaTr0L0Jzs6VC9FgTMGTOoP
+      rczmDfUkOvnFa2Yk+bYzv0HInd05c7SCYef62FUfucLLBVLaBYZhEIvFhjrkqDBAAFRVRdU0
+      SwXSdd2KauYKgZz4ckLnS/XL5W/kwu4tsX/HTog7VQS9XAxX8Hw+n+XBKoTx3tP+Gr1H70Fz
+      1xKo+WLWePLdiy9ccFPe43z53bfwQuNrllcokWjB0GPUVr2fYGby//cbTwJwnU2o7OiOdxBP
+      x6z/2wVgT8dWfvv2z6kK1nPbqq8N+/rkYun3+7NUW3slN1VVs4iEhVZ9JPILgJKdjmh3WcoH
+      YK8bM5xtSQbD8p1Pfi6Pbed+y11Bnm+iMT69Xm/WLpVKpcacj5yKNQGgJ472+8NbfoSeOIq/
+      6iY0r6mePLVjA09sf54rFq3j0oVr0SNvkOrbjDO4Cs2/gtlTpjF7yjTruC2tDxOJ7sPvm0Vp
+      8fkoisIdf74HgDlTprG8fiHhRJTfvv4EcyqnsWbWmUwvmculc64FoCFkeoHkmI73NQNwvK8J
+      NX0cOh8DVw1G8UD2qYR8zoFAICveY1/h7TkAiqKY1a4ztmGhMSQdWk44qb5IT4QhzBVfVguW
+      vzmZ/36wz+zHkASnXNrz6doFhoJ9C5dR4EIk4xdNuRAwDVZ5z/SEabDqyRZLAJ7Y/jxvHtkO
+      wGWL1pHq24we2w/AwWg5LzS+xvmzz2R2RQMAXk8dkeg+vJ46wLzvwQxTtCY0BYDfvv4Ev9z0
+      W/P/n/y//G7rXVQF6vn4SnOFv3vz7RwPN3Hd4k8xrWQOAOtmXAnRHRA/APEDKCVXDvq87JPb
+      PvllpQzp9ZF2QS4PqNAYIAC6jVsvJ6LT6SSRqQ0jMtFOVVEHrOj2zjKDBU3sbk37DYDBUxrz
+      MT4nAuzG21gLUfX19VkPPq07cIUutD4XQuCvugk92YIreJ71/hWL1lmvQgicwVXmuIKruPPx
+      e3nzyHbeOLKdu677DgBVU95LdeX7sibn8196wDoHwJzKaQDMrZzO8T5zJzoebrKu83hYvtfM
+      wa49KAoc6t4DdR+C+H7ICK0d8XSM1kgzlf46gt6iARTmcDhszQGZQyHvZywWG1d2ch4vkOnb
+      VlGt1TgcCVuTXfqopVpkv1hpC9gzuCTs4W15nNyVfTBX50RMcpfktHimSOtYAl8y0BOJRKxV
+      Lxead6G18ktcunAtly5c2/8d/wocgZUIIZhTuY03j2xnTg4bNHdy2v8+3ttGkSfAm1/7g+mB
+      0k2VpDJQhxCCE5Gj+JxehIDVdRcQT0U51LUXr8PHoUiYhspb8678j+66j11tW5hfsZSbzvwC
+      0P9MJdkPzHtqr5gts97Gc+EbKACYcQBd6KAoxDN1X+SEd2gOS0ITiYSVpGF/aHZBsI6bWfHt
+      u4Z95ZevE22Vl1AUxaIhS3etFALZ+G606o88ttPpPGmS+1DY13aYf3vuXuZMmc4XL7iJL15w
+      07BVR0VR+Mi9X6IvEeHL776FD664HLfm5byGy6zP97a/TSJjEHscXi6adTWXzLmW7238Anva
+      t3Dx7Gs5s3bdUKexjgWmxmCP9gYCgSxbs6+vL+v744GBGWGSWyH6ix6ZK3WmTVRmywoGg1ai
+      hr2vmBxwPjVG7gx2YbHnmU7UyQ9mEE9GJKXhK/XzQpU5l4vEYCzccCLKvrZDzKqYRsDty/qd
+      EIKN+17jzSM7ePPIDj4/xOTftG8ze08c4oMrLs86zmDoTXRyz+v/QjwVozJQz7SSOVk7+cnw
+      3vkf413TLqS+dLq1SOTq9rmdMWOxGNFY1NRCxpGElzcQlsvfAbI41tJfK3k98sHJBzGUKmPX
+      /QtFtBtvBINBG9FNGbCbFaoUi0x4h8xkbz/MrPIGa5J+95mfsTFj2P6/q74CwI83/Ce/e/0J
+      PrjyCi5buJYX9r5K44lD/NOj3+Prl3x2wARXFIWvPPyv1t+3nHMNYD7TB26+k2M9bSyrX5D1
+      m554B4l0DEWBi+dcS33RLAASeowT4WZuXP73xFIRpoYGcoWEEHidPhaULs26T/F43Fo4IbuS
+      n67rhCPhcSdGQh4mkSy0ZOiml0dBySuBudXJrAOepDqDnDzyOxN98gNWSN5ui9iFvhCQhDeJ
+      25+5i8/+7lvc/sxdQ/6uMcP/b2w9yKyKBr64/mZQ4IXG19jXdijvtUi7YI7NRQpQVVQxYPID
+      1Idmc+Hsa7lwdv/kB3hi9338ZsudbDz4eN7JL5GbHCRVH3nv7FwfIQSRaIRUOoVxEodKITBQ
+      BdIzKlBOPCfXcrdL5XAM2b9mDBbnKOSDGY6r7+sXf4YPLr+cWTa6w+cvuIlN+zZz3qxVHO9t
+      J5yIWoGvWRXTMIwYR4+Zbs3a6g9xIhzmWE8bQU+A2VOm8ccdG3hi2/NcccY6LrMZ1DtOvMrW
+      4y+xuOocFk5ZzcqadUNGfQf7zOVy4fF4suaFneNvbxIoCxtHopH+nXacq87lrQoBAyey3++3
+      KjDbg2HxeNy6GLt68LcEmXwhEzak3l8oQbd7QiS+dvGnuXbF5cwqb7DeC7h9LK3LXqFnVTQw
+      q6IBRVG46Mc3EE5E+ML6m7lm2aUARGP76c2Q38pK13CsN9FPputt44lttliCTQC2Hn+JI917
+      AVhUeRb3vvFdWsNNXL3oU8wqNfMFrpj3Mc4MX8DW1le4fcNtnFm/nvUzrgb6E9tlZYfca5VU
+      iNzPo7EYmqJhYODUxr9H9UDrTemnQ9ujsdJLkU6n6evry1uT0u7aPJ27gBBmdlYh0/dkYzbD
+      MPB4PAWjadt573YE3D6W1s4f3UFtK7HHXUNRMJPg4q5laa3bVJOAZXULrCwxe7YYwOKqc7Je
+      WzP+/9ZwsyUAbs1LfWg2mw49YX6WiRtA9sqfe63STpQJMFlEuAwT91TNIUXk7FtNzU3myVGy
+      BEC6/Vwul2XA2Fvl2JmT4623nQy6LSXxZOUxRnOjVVW1glZjvc5YPEY0Ei3Iwz7e287x3hNZ
+      u0Q4sp14/CilpWtQFQ9p3Vy0hBA4bCtsQo/x9N77ALhkzsdwa96sY+/r3EpruJneRAc98XbW
+      z7iWCr+ZV3wicpTGjreZXbaEKf5ay6VpT3CRbk25+geDwaxAomEY9PT0nPKI/+D+O9vzkH59
+      IcwsKXtkVlKa7RdyOiF3L6mTpo00qjK4Ya4bBmCmMQ633Ick/hVCyAsZ6KkqKpu8+WoAACAA
+      SURBVKeqqNz6W1EUjjTdY/1dXnax5WaV90ROuLZIM40dWwBYEbmAuqJ+o3bDwYdoDTexfuYH
+      ufeNfwagsfNtpgRMSsUUfy1TMsIA/UatHT29vSSTCTRVy+L5SMjOlqcaeQNhKP1+e8nll2Q2
+      WaJD+m0lC1LC7h8+HWpQ7k1UFLNUSVpPW5PcPi6BACFQlNFResdyjUIIcyfNqGpDGZmDQu+G
+      dBe4B9b/0Y1+r5LHY05QVVFRNZW+RCf3bf4XQp5yrl/6Nab46zCEl2gqSsJm8yuKwuvNzwLQ
+      2LGFVXXraQ03URmo599fMpmqNy7/BkUZlqicG/b7kk6nrcT6XKoD9LtETwcGCIDX680apH2V
+      sOv3skipHXZDODcwdqogV3rdMCzekpxSQhgYRrZHy6FqCMSoO6yMRQhS6ZR1Xj22k+jxX6O5
+      a/DZKNBDQVEUEi0/AiOGs+w9KIFzsz7v7HrB2smDOdz/3oTp2z+R4fm09Lazv9s0jne377Xy
+      f4UQrMxM+lllS6jwmYLU3NtoRYV74h0EXMUoiprF75eIxmNW8os/p72RPRp8OjBAAAKBAC6X
+      66QPVaY02iEFJJfifKpdoyZlQ0MImwEm8uceK4oy4slvL8mXj/ZxMkRjMVwuV5b6YyRbANAT
+      LWYwMtlCvOMPaK5aXKVXWmMFW53O2E5cIo79KeTuIgqQu6dsad5FdaiCdTOvJeQus74fjek4
+      HAqzSrN9+munm56d9uhR2qNHKffVUh+aw/pZ14KAmuAMdF3H7/MMUAvT6TTRSAS3x0MoWDQg
+      an46Jz8MYgMMZ7JKaoA9eJMvOHQ6vUL2c2qDnH80YxMIkqmUFR0fqS3g0DRisSiJRMLyczuD
+      Zo1O1VVDOBGh4/jzlOr70WP7cZddxfHeNm76jRn9/fVHf0BVUQVa+304VBXNvwI9cC5/OfA6
+      X330+8yeMo17r/8+mmoasvIV4H/eeop/f+7XBNx+nvm7/7Am/7SSev75wm9Z/89Fe/Qo//mm
+      mRl2wxm3UJl8k1W+GvTQFaQytZxyXZoAvX29eDweAv5A3kWi0CmOI8WYSCySEyOzvgaL7MqL
+      nIjxAakqyepnw4EZwjdVGJdz5OXPnU4nhjATQFQtc09UD87QuwG4/fEf0nxiC19eVce8unMR
+      QnC8t41wwlwtj/e2URksR7hqINkCMkFm+wYAGk8cQlVVSn31eGqvx+mZOSzbwj7xhwx6Rbej
+      pE3uP8VXAIKAPzDg+Ur7UE7+3IVxOA0sxhtjZnH5/X7LOM4H6T06XXV+TgbB6Hcnl/PkquKA
+      82V2nJPltx7sTfG7w+V8d7Gp/iypnc/n1t1o/R8gNeXvrIm65eguNu4zO8F8ft1NGL2b0Dse
+      w6V6UGq/ah33mmWXMrtiGlWhirwOA4D737qdE5Em3rPgNmaUmD7/cl8tNyz/hvl/l4boSoKr
+      BgQE/IG8gUFFUfJOfjC9PoUsbzJaFITG6PF4CIfDg34+UTO6IGMEj0ANktfS3dOD3+vL6/Ib
+      Cql0yuxmzuDq4Vcv+jTXLj/MTFsUGODqpZfmHQ9AdVGF1QfgvFmrgD0A6HqMvu6NlJVeZJ1n
+      ad3AANumQ7/nzaPPsrx2PSciZkCrLdJMXdFs2iJHqfDXUp4xgAWgV3wSICs6not8LNlUOkUs
+      HsfjMr2Ip1sIBgTCEonEAGrqyaDret6SffZtLtf19dcKIcxG0iXFJYMWAhgK9iYXPb09CCNb
+      AE7mCn3xwBvsazvEB5ZdSsA1kOkpxwjQ2nQnfbEmqmtvwXDW8F9vfReADy/7OkFXdnWH32//
+      N5p79lIXmsOy2vW0RZpYVn0Bf2q8j30dW5hVtpQr5n1ywHgCgcCgmXy5EELQ3duD0E2twOVx
+      4/f6rGZ2pwND7gByAssyHVKdkQ8wFAqd9AQjqepgfU8pRNvn8YH0GsniXqP5fSqdJpFMcqD9
+      CL948QFmljdw6zkf5mebfsP/vPlHrll+GZ8576N5f/u1x35g/X3D6g/w4oHXaWw7zNVLLx1A
+      fa6a+mWqMO9rS+8+y23ZF+8cIABrZlzDgc63mVG6hHJfLTNKsksm5kIIYVEdhksHTySTpJJJ
+      i12cjCdIJU7vDjBAAMLhsMVLH2riDsd4kcG04UIapEBWmH4iIplMjqoDTDwRxzAEqqrw8qE3
+      2dqyi60tu/jUu66n8cQhAOs1F0IIZldMozGTFKMoCl/9Q79A3Lj6A7bxtdDa+ggeTx0VFe+h
+      pmgWa2aY1R1qMpRm+25T7utXcey4aPZHWVZzgUV7kJBFEnK9frKWbL6xR2PRLLVvIjzfvFUh
+      hlvmJN//cyGZk8OBDFxNlJszFEbjvRBC4HGbgaJkKsVZ05bz9tFdzCxvwDAM/m7NDfzlwOu8
+      a8ZK9MgbpPs248iUOJG45yP/mjVxZ0+ZRuOJQ1blB4lweDvR6D6i0X1UhhYjtBKWVK+1Pv/L
+      od/zVsuzXDH/NqZnDN18cGleam05API6pO2TywIY7LklU0lSqeSwWxedKozaCLZP6kKFsR2a
+      oz8lc4wY7zpCozXqY/G4WVZG15laXMP3r+r30Mwsn8rM8qkAJI7/ET1uljhxBFby0JanAPjA
+      kksQQvDMro08tWMDH1xxBRfPP3/AeAKBRUQijQREN8bxX4DqQan/v9YkbcsYuu2R5iEFIB9k
+      Jee8QcVB7re562moI2hfdCowagGwG8qFEgBFUdCUsbtLDWGYDeSUwlRqy4fRHFdRzErPQpjc
+      JE3TSKfyu48dmRInjuAqtjTv5Ccb/hOAWeUNLKmdz1M7NrCl2Sx4e9E8s1RKa187x3vbWFI7
+      H5erhvr6z6CEX0R0PpZ17P9++3bawk3UheawpHodHVGz5lBZHhVIIp6O8fAuky364WWfxKeO
+      vOv9xJn2/RixAAghsshwQogh64aeDuRWmxgPjLYChBQcTdMQhiCdSrO1ZTeVwXIqgyaTU1EU
+      NP8KS/V58c3fAGaOgCyHLsuhyFdFUbj5/n8gnIjyubU38oGllwAgAueiuGpAK7FW//ZIE4oC
+      9cVz6Et08tstpnfoQ0u/PkAIpLp1PNzMzhMmW7S55zClRcMrly6EMF2/ibiZYDuBVn8YoQDI
+      G+j3+62/h/L/Fwqyk/lwVSNVVa2OLeMBj8czKgNYdnpUFAVd10kkEjy89Rl+tvE+Am4fj33y
+      HpKdj5Hq2YgzdD7OkivZ2rKbh956ClVRuP2qr1hCcvH887l4/vknPacQAlzTs/6+fN5ttEeb
+      WVy1jr5EZ/+XFQU1/JL5veC5/NeW22mLNHHl/NuoDs5mwZSlAEwtGcg8Her8qVQKPZ0e9/TG
+      0WDYAiC5HnbdPxKJjDuNVfL7AQzFGFaJDFVRUdTxmfw+n2/QwM/JID0nYO4gyWQySy1QFMUq
+      bWhk6oJWFVVY7s2qogru+sv97Gs7xGfO+5hlL4B5n+69/vsc721jcc10jh27F4CKiutQVHcW
+      zWNayWKmZfT+Ml8tH1r6dfO7WgKl3VSXFHeNZSe0RZppCC3ippWfs1oVDRfhiOlVdIxjY+1g
+      MGgm048ip+Cko5ITP3fLj0ajpySKZ1/JR3JxhV79hRDohj4spuxQsLNI79p0P7/f8hRLaxfw
+      DxfeSqpnEyLDCnWXv5e7Nv3GLHZ19besyf7QW38E4MWDr1MZLOdfnvopAN+49LOWGhWP76ev
+      z2yMV1x8Pk5X9op9pNcsaju1yExokWqP0LtR1P6d7aoZF3Ei7WJJ9Tpr7COxfdK6TjweH3e1
+      R5bxGY1jYlABkAnL+YI9sVjMSoYfT6iqigbomTS+0+lCK0QWmP0BGYaRVbakKlhButekLyiq
+      D9VVw0NvmZ6fFw+8zowyk6h29bLL2Nd2iHNnrKSx7RAvNJr8nw+uPMSyTCqky1VLMGgGspyu
+      mqxMtyO9zXztz98B4PYLv2UJAYDQijHqvmOqm03/h9lGnJklV5FWPSOmfAOoaoYdPI7mr6KY
+      tWtHG0keIACaZqas5Zv4Qgji8fi4NCrIB5lXGk8kiETC43ojh4IQAofTQXGoeMzHsnfI+cz5
+      H+XFA29w7owVpDofI92zCc07E1f5BzEMg6uXXcq+tsOcO6M/DvDpd11v/d9eAsXeGSad7sTj
+      rsMfWISiZKtrmw69dNJrzffeaOo4JeKJcTd8PR6PxUYeDQYIgM/nGzTEL5OaTwU8Ho+la3o9
+      HoyM0Xi6kC/TaTRIJpMWH2hG2VRmljeYudbHzdUeAWimoH3KNtnzcYRO9LWzsHYW585YmUWD
+      aDvxSCYI1kht3Wes93e37+Xpxj+jALeuujlr9bfGp8foiB6lYsptuEQMwzUdRulQUDV1TNl2
+      Jz1+hojX29s7+mOc7AsyEb6np+eUujvtQmjPOTgdEBSm7r/0/qTTaXRd5+q7P8fC71zO83tf
+      xVl2Fc6Si3CWXUUsHePpfU+y/YRZz+elg2+y/icf5rbfZXdh+dmm+/iPVx7iZxvvy3rfnan/
+      L18lKvzl+Jw+fE4f8yvmAuaEf3rP3Ty9526Sepzn9v2GR7bfyf8eeAzDNT2L+zUSIUgmk/T2
+      9Q2Y/JIZ4HQ68Xg8eL3erMVuuFAUhWAwmNVVZjTIe1ZJfpMdHU9H0kJvb691c06VyjUYFEUp
+      WI0h6UFKJpPsPm727tp9/ADr5qxGC1UD8MK+J/njXrPx3U8u/yX72w8DZvVn+04wq2IaW5p3
+      ZlWKAygvfw8VFe8FoKW3kaC7lICrlDJvKXe/58dAv6rTET3KwU7Tv98Zu4C+RHvecY90gsYT
+      CbPYQIYMqSiK9TwVpb/+rOSLyffi8TiJRGJIg1aq6fK7Y0FeMtxECVbIimynPW2ugFXgHA6H
+      5bH4yXXfZPfxA1y/+qqs79QV1We9KgoE3H7+4d23ZU2MT73rej593kcH1du3t27gxYMP4tK8
+      3HzmnXnzMsp8tUwvNf37R3v20hFpRgHWz/7YgGOO5B64XE7iiTipdMpKhpd1pPK5Kx0Oh1VM
+      y+zPnMgqFix7hrlcLlKpFH19fQXJMclLhpsoAgCnP2cURr76nQzyoa6bs5p1c1YP+HzRlMX8
+      5PJfIoTg7aO7+M9Xfw+Qt5S5EIKkHmPTQTNafP6Mj9EZbSaQQ3ceDC7NyyVzTZ7/9uMbALPi
+      m0vzZs2Fkc4Jj9uDy+nKYocmEolBd3OpdUSjUatRRnFxsVVBWtM0kslkVjeZQmD8ohN/IxBC
+      0BcJk0gmzUIAHs+Y1CG7J0WqM+lkC/HIdjz+RThcNdZ5wSx21R8IK+dAxxFeOvgG50xfwYwy
+      MzbQFTvK4c63AfgL93Gk621cmpcPr7iDMl8dQXdpVomaQVdOBaaXLeXcaddkfWe0lbztZXVG
+      kgKZSqWsZuUej8fMoc7UpS20Oj4pACeBQOB2uUil0iQSmVS+MUb0hRAkojvoaPn/cLprUVUv
+      idg+EtF9lNd9JmvyTQmU8+gnfmX97vv/+13ePrqLLc07+eF7zQhuqbeWhtIl5v/99Rzpetv6
+      fXWwn8r8yPb/R0ekiYvm3kbAVcbhrrdZWLUOl+blWN8+/nLwQQAWV19AwFUCYFWSGwuzdrRB
+      03Q6TTgctjpK+nw+K4JeMAZyQY7yNwxN1fC4PPi95qpfCHXIMAxSma6PqcRRgiVrSMT2sanp
+      AG/u+B43r/qQVaEhlo7xwqHnqC2q58XGbexvPwKYBvD/7v0Lz+zayEXzzueiebdahmRlYBZB
+      dxmJdJSdrRso9dXRULKYjgy1oSPazLaW52jpNas/L6u9jKC7FFemHmjQ1gs4FAqRTCazOuKM
+      BMlkcsyGqqZpRCIRPB4PqVQKn89nJthEo2P2TA7ZJnUS5v2IxWJ4PJ4R50oPdUx/yCSyOd21
+      uH0LCVW8j8++dCPQyWtNb1kC8MKh53gy4xHac8iMdt6w+mo+uup9/P2j5m4AcCx6lCd2/Ym/
+      X3kWCyrn4XfNZkvLU7zRZFZu/vhZd3HR3NvoiDazqHIdiVSMlt69lPnN8wRcpdxy5p3W+CQk
+      eW80buBCtDi1r/iSeZxKpfD7/QQCgTEX1NW+/e1vf9v+huxUOJEM4dMNSQsZTRGsfDDdfCou
+      70wcTrM/rxCCaCqGS3OyYMo8XjzwBgG3D4/LzRstm6krqmdZ1UpcDifvX3IxJd4QiqIQSUa5
+      eP75bG3dQZHaxfopvcSju/H4ZqMrXg50vI6qQNKIsaByHVWBWWiqk7riBaysv4KyxGa0vg3g
+      rkGogQFjlU3LR1PxuxArtMw5ljnpEsmMTaaq6pjOkXcHkAzMQj3wiQaXy2W5NmVpQ9mN3n6T
+      JeU5txv8aCHTTQcz5G5aeR2Kolgr+9tHd/KD93yNn2Y8Qnak9BjVRX18Ye2V1IbOYPaUaexv
+      24KqvgyA5ihhavEMakNzONa7l86ISYDTjf4iZSoqau8m8+/YToxgtXX84337CLhLcbmqcLlc
+      I+YByQDqWCHjUfkQDofx+/1DNhY8GQbtEPO3OvnBXD3sD0eucLLevyS92R/6WO5Ff6fNgcWC
+      23peo7XzVSpLV1MROhMhBDPLG6xcYcivlu45sYGtR0315iOr7qKhuI5Ych99XMi8ynXWb1Y3
+      XM2Rrq1MLVmMIQYWOjCKzkNJHsXw9vcU2GGLH3zinB+P6ZoLgcGOI+0Sj8cz6hqjeXeA0dS7
+      +WtGbkdMyS+3Yyz3QlIgwBQ2+7laO1+lJ9IIQEXIJLbddu5H+NS7rkcIwZ4TB/neM3czs7IO
+      4Y4yrXgq1y/5ICU+k+ZQ4ss0sQ7vY/Ph/7HeO9L1Np3RZlZNvZolNf0FtRRNwRAGDv0EWtfj
+      GIGVpEOXD3lvRjORcxujjxfS6fSYbLO8bNC/5dU/H3TDQKHfRy+73RQKQxmRlcVLCKYP4BDH
+      0dNdaA7T/SjP//yeV9h8aBuHwwepLA+w88QePrr0OmpDZ/CRVXdZ3/O7+r04AXcZO48/B0BT
+      91ZKvP1pjjLvWovsRE0cQAF077KsMS2sXEuZr46Au3RMApDbGH08kEwm8fl8o1aDBgjAydqc
+      /i1CCAPDXpSrwAuA/V7mPqSQt46EoiCMWJYASFww9yxeO7Q1awfIV3vH7yrluhV3WH8vqLqA
+      zmgzU4sX512Jde8CiO/HCKy03rO7Oasy8QNpt4xGI3A6neMuALJXnWzdNVIMKI3Y3t7+jlr9
+      IafNq9bfV0zTtBGnAJ4M6XR6AH030mMaov7QedZ7HT2baet+lYri1ejaDIsJ+rNr/hldN7jm
+      V58H4Pe3/oSakOlJSqRj/GG3yQx9z3yzz1dzzzae3/sLSn11XL7wqwyGoQpWaZpGMBgc8byQ
+      nJ3xhtPpJBAIjIqun9cIfqe5QbNqc6Lg8/lwOBwWEW+sAiC7ag42gewTX6Kt+1V6M7ZB2l1E
+      JGkaeW2RThLJFH1x07/e0nPCEoDWSDO720xm51n1FzA1NJuuqOn96Yw2kxYJdh1/jhJfHXUh
+      M2Ns94kNAMybspZIsotIspNKW/QY+iOywWBwRPNC7hrjbQdIgl0wGCQajY4o8DYgDhCOhDEy
+      5QknYhmL8YbshGn3Bo2VIBiLxSwXa64KtPfEIToi3ZT5s7PNFEVBN2JUFK9mWvligp4AByN7
+      ePXYK5wz7UzmVsxkSd08nt/zCk/v3MS5s1YQcofoiLVS7q9iRc15OFQnpf56HJqL+VUX0NT1
+      Nm8ffYJDna+zpPYKFEXhyR0/4Gj3TmpC83hq14/Yc2ITbqefCv+0rLFIAR5JXoCiKAP89+MF
+      6V6WDfjy3et8yLskWSQtY3Cf9emAmZje37FyPCAJV6lUytoB8tGIR4LB7uHeE4e49lef49pf
+      fY69OfVAy0KrmNfwWcpCZoGs9y2+GKfTfFxHeo5w/ZlXsWraGTy7+2We3f0ye1oP4nZ4+eAZ
+      t7GwYi29mWYa//HawzzwxhZSejGlGc9RacZzJITAlWF+BtwnZ49KSsRIcCoX0GQyaalcwWCQ
+      UChkVfEYLI4x5N6uYAZOBAy7heh4QgZxDAQaA1ciK8gzhuR5qabYK2KrqmqxEkcKIQR+v98S
+      2lQqNSrDUAjBF87+DEd6mrhwxnoA5lZO5+yZS2jubaKhrAqAx3b8ibtfvh+/y8eDN/ySR7Y+
+      DcD/feZHzCxv4Etr78DnNAN80WQnly38EsXeWoQQvOeMrxFOdlIZmJV/ECOENFBPJcVeqmuK
+      olgBT4/HY3n25HONx+NmpttgVAgJMxtqYniFZCBHGqi5kBNrrKqbECKrS6bD4Rh1XMSeAii9
+      InKcZf5iLph3NtesuJQ5U6ZZv9l0+GXuf/t3KIpCQ3F/26LqQBVTQ/Uc7m7C7/IRcPloTTWS
+      cnTQHe9kefVK9rYd4I3mrbg0J1cvuYJoKkYynaS5+xhN3cdYOXUxUwLlKIrCo1u/ya7W56gv
+      WYLHWWTuBEPkEchm6SMxhuVEOx3zR2Y0yuQaaSC73W7cbjfJZPLk/QGGU4jqVMGhOcyOh4Nk
+      QCmK2RJ1rJNfln+E/mjjaI6Z73e5KoR94ktsPPQiO0+YJVLOazg767Ofv3Yvm5vfYlXdMv7+
+      XZ8d8NsrF1yIW+vGpcVJpqN84qwPE0nG+NELdwNQGQzQFt7HlODsAb8dD0yUBCu5+6ZSZoee
+      QCBAMBg8iQqkKJYKpE4Qz5ACZo5g7vuKMqrqY/bAl4yC2yfpWOsASRVK3rvh6NDnTzs363Wo
+      439k8Q2s61tPTdDU7xVFoSfyAgD72sqZX3UpfpeXb1z4eRRF4aG3vkxKj7Fi6jVcuuCrpPQY
+      IU9N3uPHw68T7XkNX+hMXL7lVonK4WKi1YyVkCU9Q6FQPgEYmMVvGDoikxg+EYSgkHA4HAQC
+      gYH2hK2z5WivWbqT7b8fjv5/XsPZnNdwNsd623jjyA5WTF1offapM2/msjlNlmrkdXitptYA
+      +9uet3oDF/sGlj2xw+ssxuMIWeN7q/n3dEWaWT71aoq9tUR7XiMR2weA07tsxGqgqqoEAoEs
+      9WOsMIQBYuhS7MOBzCcYYAOYXpDshyRVi4nW3KAQkHTfXKKadP2N5Ubn/lZWPbCfJ+v78Z0o
+      0a3gqkFRnVz601v4nzefosgb4Ixas4yJU3NS4S/joV2P8OTep2konkrIXQRAR2Qfrx28F1WB
+      tXO/SDzdy5bmh1AVlVCGDjGtbCV1xUsp8lbxysH/wKFpFHvrUBSF5/f+lEiyA58rxJTgbBRV
+      QegxfKEzwVGJz+sbkSNA5vNKnVty+0cLGZWGwrno83KBhHAMlFghMIRRkPr9Ewl2Zqg0ejVN
+      swzfQkI+vO/96Vfc9/KjfOzs9/KPF30CyAjcCbMHgAqQ6RkMEE3F2NW2l4bienxOMy/hmX3/
+      C8Cbx7ZQnylw5XOV4szwgfzuUra3PEFbnxlMm1pqEu18zlJ8zlJ2Hn+KE31mRlhD6WqEEMyr
+      uoCuSDN1JUtIxQ/g8s7EE1hp9lvQdbQR3o90Ok0ikbCEYDQ91exQFMVSfwVjd4MbhjFQAOLx
+      WMbDIjfS/pMbhtl4wqE5JmSp69FCujjlCjNWv/9gkPr/7mMHsl4hYyy6asziuK5qhBA8+Ikf
+      09Jzgg2HN/CdZ7/PqrplfPldZs7wxbPezQsHX2R/+2GiM2L4nF68zlKuXPJD63jTy0wDWr7a
+      URtaTGvvXmZUnE17eB8+dynL6sweY7HeTXS0PYqieqma8V0MPdPdZQQrrj0fQJbULEQ9WTmC
+      QjweIcTgPcJyrXc5IQzDIGkk0TQHDk07bfU6CwlZ9Xi8OVBSAP7pkk/y3J5XuGDuWdZnit4N
+      pVehemZa36suqqC6qIINhzcMONaHz/ggj2x9hlf63mRqaCpXLzIbaguE1Xp1aumZ1spvh6Io
+      hLy1rJvzefa1beC5A/+JU/Py/mV3ZJ6z7bkjEMLAOcKm4IlkYkRJRHLROdkzkEHaQmniAwRA
+      ob8Kmm70C4L0smhCI62n0XUzSOR2jm1bmwg4VeQ/qQLNrZzO3MrpRFMxHt3zBA2hepakHwYj
+      jlp6FQRM74982J9afTOXzTUN30Sqi0Sqk5B/FtNKpnKo64iVP/zZ33+T/e2H+T8X3cZin6ne
+      +Cquyyp5vu3owzS2Psfsygs4o/b9A8a4pfn37Gl9jjkl81gy9fqsPIaRTOZINEra0NGU4aVS
+      GoaBIU5ucxWqQp9EXjq0HIBDc1gDkydWFRWXw4Vu6P0U4r9yyOis1P3Hy9DPdYH+6cCzPLzT
+      bEjxH6uqsz77wYvf5WhvEx9f8WkWTVnM/Io5KIrCizu/TVqPMavmA3z/0m9ZQhJNxTjQYZZQ
+      3Hv0JebVHAfAU9yC5p5hHbc72pT1OqfyAop9dfgyATBJnutOG6haCWndjOQ6Hc5h35dUOo2e
+      1hGGga4Is/NMzm9NWotuca3k5JdenlPlcDmpVSNzR3OhqRp/K+awXTf1+/0Fq/4gCVoyI0yu
+      pvu6Gin1ltEQMlfuhuJ6tJq/g3QXwjUdRVE42mtO0KN9TSyaMngXR6ma/vume3A6VSr8ZVy9
+      6hbo/gMAqtP08UeSUR7d9ifKfDNYUDOHmuLFHOvdxkv7fmnuBjWX0X3810x39lJRtZ760v6K
+      dYqioDmG/7RjsRiy5S3kb44nF4O0rlvJSPa4iS4MHOPU4NCOybpA44RUKoUgU1U501leCMGG
+      w8/z0I7f4XV6+eFF/8Zv3v8rU/8FcJmMUCEEH1/xaY72NbGm4QLrmEIIVsz6JxKpTop8M/Oe
+      d0ZpJSIz+QNTrgPFVH8e3fYnfrPZLLH4zKfuRwhBS7dZfbo72oSebCEe3oYXqC1bitNTa50T
+      GLbTI5lMmv3AVBVDCByDxI7MPm79k98QwgpymlbIqdEuJpwAmNuhOC2R53ytoEYLVdNIp00e
+      iq4bJDJdEnNhdzbYPU9He9sADx6H6daUK6TbWYLbWTLgOJ8/7+NctfAi6n0pEm3/AYAn2YIj
+      o/7IFkuyHwFA3KihoXwdsypWoznL8QTMHAGrPGPG2ThcImQikbC4+JqqCRxLlgAAIABJREFU
+      oQ5Bg5A2pbQzLRVJCMgsCKeCRjHhBADAMHQMTBvkVAqB7ENgjwWMFpqqornsqpQglUyxtmEd
+      dUV1NPc08+TeJ1hWvZRfbjZTGb9w9jco9pSyu30v9235bwAaSqby0I7f0dTTxKfP/DRLKpcM
+      ONfx8FGe3PMg1UX1LJxyBeHoInMMzn6Kw1kNy3nmU/cDcLDzCM/t+wuP7fgTZzUsZ3ldDYqq
+      Eqq8MfvAwlRfnM6h9X8pUMlkMit+NJxnJ23LtK7DKVr17ZhwAiC9AKejQp3P57PiHWPJgxBC
+      EE/ELVdxblLI7NI53Pmi6a9v6WsinjYrJsvXcl8ZK2vNRPUKXxntUbNmf0e0I+/5drW9zYGu
+      vRzo2svlc64hkDuRbeM61NXE5x/9pvXelEDFgCIABzrM8ovTS00bZSgBkPdK0oxHC9XGNoCx
+      Ux2GiwmZEyy3xfFsrZkLTdMIhUIFOVY6naatow1QcDmcvO+Xf8euY/u568PfYu4UlcMdL/Pq
+      sSOojlquWXQtQsTZ03Q/NcE65tR9BE31Zh2vM9ZJR6yD2aUm52dP+1aOhZs5q24dHoeXWCrK
+      K80bqA7WMa+832B+/egWDnU1cdncd+Nzmsdsi3RYAvDv7/1n0qkDNHe8TF3ZWVQXn8nBziY+
+      /T9m0d2fXv3PTC2upSRUPKgQSJblqegXXUjIRXbC7QBgrgJCOfU7QDqdHnEroLzHyXS1dDlM
+      7vyuY2bv393HD+DR2mjva2R19WzeNfsLCCHoje7HLTrp6O0kEl83wMAt9ZZS6jXdlIqi8MDb
+      P7c+W9NwKQ7Vxbrpl2X9RlEUvrfhJ9bfMlBW4S/jt9ebvxdCsHn/A3SGTbpEdfHAoJkjEyQc
+      Spe383t2tx7k9qd+wfyqmXz1kk8O426deiiK2V4JJqAKBJnt7xRHmPVMT1t7I+vRCoKuG5Yf
+      WwjBXR/+FruPH+BjZ72HnugOoqkYL7UcZmv3Xdy49Eb8nhrKisyV25+HmhyP7iCVOEogdD6o
+      HqqD9Rzra6I6WM+hnn0Ue0opVvwkejfhcNfg8C5ECDEgUCaRTByls+1R3O5a6srMaLR8nV5a
+      z13XfNd8r6gK10kiwLklEJ/d/TKvHtzKqwe38rVLbz3lqqxMmx3KhepyuTAMg1gsNjFVoNMB
+      RVEoKipCUcZWE8gwDP607QUaTxzkvWdchN/V39XlaF8zW1vfxuPw8dttppH7lXP/3lJtBhvX
+      kb1fBKC4/BKCJRdZ77/U9ByP734Qj8PLPyy9lGjnMwCUzbzD6r/V2vM6Rztfprb0LKoyK3xv
+      15/oajdTJRtm3znodaT1NCXFJUM2B4/F4/T19VpU+dwd4PWWLRzuauLSOf1q2HjAMAzSRr+t
+      5XK6B+UuKYqC3+8nHA5PzB3gdMDpdI64AGw+JJNJvvnED62/P7Livbxw8CU2HHiR7uRRUkac
+      uqJ60gnzXHW2VqV24/9Q6yNEYs3MqPkALnctycRRnO7+Cm9CiCyniSPzmXwVmJ8f7XyZroyK
+      IwXA619ELLoPt+14uTCEgUMbOhVUGvty7ADzKqdz343fs977wcZ+NewDC68c9HxjhSA70q4b
+      OmqODSnzhKXRryhK4QVAhrWFYNBtSIbBFfLn9p4OFGocqqoys7yB/e2HrRZGGw68yI7W3QQ8
+      Kj63Rk84wRu7TcrBzpYDrJi6kC/+4Vsc6DzC19/9OVZPXU5L+/MAdPRupbb+S9YE640f5XjP
+      VqpCizm7fh3VwTq641EebtzH6qlfoD5Uzr6mewCYWvUhaktN1Ua+gtk9vqruM/zPjgfpOPRz
+      Prb0RryO/tXZqhjhHlr90Q2DdIbznw92NawhRw0rNEy3s2dQlcvtduPz+Ugmk1aZGiiwDSCE
+      IK2nT+rCMhmGZphFMSZGHdJCCYDT6eRn1/yL6dbLPIy1M861XtfOOJeWnhM8v/02PA4PNaEp
+      KIrCgU7T9Xiws4kz65dRU76OSKyZ0uBiS691Ohxsb36I9r5G2vv2cs6szzOteDbffOZ7bD++
+      m23HdvFP519NV68Z4a0sW0tV8ZnWyp8bcHv2gJlTcEFvc5YaZggDMqulPSc69zklMz16h/LW
+      fe/ib2XtbOONweZdIpGwip3Zd4qCCoCM7hmGMWToXFVUUBkW/XW0kOXOh1slzF4acKxQVMXi
+      uKiKyprp57Bm+jkAGHqM9rY/cMn8Mg5EXNQUT0EIwdfWf4597XtYM206uhFjWuX7so55uLOJ
+      u19+gErvcWaUQMjbv6LOKGtg+/HdzChrwOuupSRjUKOZQbWpoXqiqSj/+Mx3AHNSlvvKWD/j
+      3XRE27PUMHkvtJwiWPZsLPnMYok4iqJwuLuZVw6/yVkNyy2D2z7p7ZN/42FzZzu/Yd2Y7/NI
+      oeu61WZVouAqkEwyl5Auwdx84pFO/JGuIm63G4/HQzKZHNbvClUQWFEUSkLFdPf2YKQzdYxs
+      of5Iz0ZKxU4+PtfP1940H4Ru6KysW0yx8gYHm39FT9Fi5tZ/POu4rxx+k60tZjukp279TdYq
+      dtPK67h51YcAc7LNrLsFRVG488WfWhUkLp1zEdFUprxitINyXxlXL7gGgK7wdjrizVSXrkHB
+      nSkL4x7QIwH6A1+qqpq7nKLyq1ceYNsxcwe6/bKv8vlHv8mBjiN848LPc2Z9f+Xp/V2N/H7n
+      7wCoLarLymUeb8gYT+6COK5GsH1V1Q19TEn1slvLcNtlSuPN7XZnsT09XrPNqWRnysJNhVKB
+      UpmOJq8cfIMDHUe4auGFuFQXhgKqqlmGrMtTxx1X3GhNqISepLWvncGYSGc1LGdryy5mlE3N
+      K9DP73+RZxs3sX72eaydcc6A78yvmMMNy00hmV8+x3pfURR2Hb7b+ruqxEzFHMzzIxcuwzAQ
+      hrmDzyhrYNsxcweC/kjygY4jWQJQ6i2zbI1Sb9ngN3EcIGsE5Uarx9UNmsvvKERk10BQXBRC
+      07Ssepv2FkfyX1FREQ6Hg87OTsvwRjFr9csAj2zmXCgKdDgSJpFIcOU9NwLwkRXv5+ozLrPs
+      IrkI2NUDIQS3P/tT3mx6g3MaZvDFdf+IlkliOdjZxC9feoCZ5VP55NkfIRo/yqHjD+P31DK1
+      8n20Rztoj3bwwBuPsP34bhZVzeOfL/5HwMwlPtLTxNRQ/ZAuyLf3f59IvJl5Uz9BwDsPl9PJ
+      /9/dlYbHUV3Z86q6u6p6lVpeZEktS5bxhld2AwFjY5YZBsIeJhCyhy3JZBK+BMKEhEmAEGby
+      MVkmIcsHE0KCISEkkw2w8bDE2ARsvGB5lSzJq7beq7trefPj1StVr2rZ2sz5I6m7VN1Vde97
+      99137rnBQLAiF6pQ+dkZKm3q3mw5/yVFn1uK+Dce4ETHwg7zYzYDsMXTECd8NCp5eHGOpusA
+      IXacWgrcsDKZDASRNU9wuzwQBQF+n9/m/Jwo6a0Qus6yW7PqZmJ//wGbT+Nc7zgfgDNhkDWA
+      jFlrGz8AbOhkoc/WQzvx6eUfxmBiG+KpPYin9qBlxrX48l++gbSWRiQYwcL6eVh1ypDStNet
+      YJ5jtC93nxbN+hIIiF2g4vf5hx0EC0fSvt7fIZvpwZRpV+OsyDKcFVmGdXuHZqWVs88ruvbx
+      Al/M8+IbJ8bEASilMOhQiHIioY9TB4YjkWD6+ny9IYouuFyiJXHiypNydLvdtlowD3X4wx3t
+      FCxfKBIA/3X1A3lFHjztWwqDmQFctXgFPrjoUtthOJa3sNCnbQoLfWoDixBL7YFPbsx7mCtn
+      n4/LTllV1ffkAwmnOvNY3yN4IEvysPXRfGDhIIQgOrAeAJBObocnzHaz1+55DdsOt1vfr7LI
+      11iC71RziUrnInhMQ6BCrZ3j+X9Nd3zZKhmCpRxD1w2oahrhcN2I1A1GAtM00T8wUJI/z9dC
+      XbEevH14C06fsRTNIabHc+9L/wJVV3H1ghvxgeaRZUf60v3oTfVj/lQ20nPj5WugwuZxgiDY
+      PH+BEHs2tKu3qrjHlFIMDg7mvdbf9wKymR5MnXYN3B5W3llqBphIuFwuSJKU17t40lIheMzu
+      dKLC6et4HIvp/bit0IdVa52oXg2Hpml4a8+7WLf7Tayauxxzp7cWHfOtVx/Fzt5dmD91Lu67
+      8G48s30NNnS9DEIILp91Hi5ovaJkwQuH835w7SJnL19OgeD3xjna8bRmocFXA2eKWNM0HBs8
+      hu5YDyKhJnthqyb/jmRsE/yhs6A4Wi9NJgSDwbwOPZOSCmHSIT6+c9FU2BeAvzeSFGYRb50Q
+      TAnXjYrTG6aJh//6ODZ1bsWmjq144taHi45pqWnGzt5daKlhu8Qv7XsZBMC8kABX9i1s2rMd
+      F5z6SNlYWVEUu3EH35xy3qPC9YwkSVXvb1SasTOZjB1OEkLw83eewDuHN+O0Gctw51m3AwCS
+      DinFyeoAXP3cLvWc4O9TBMPK6BSCx9elMj8nsrAazdJLlyhi/gxGZeY/C/HhxTfgl9f9FGdM
+      PxM/WP9LeIUQNINiSf2yksdzSJKEQCAAj8dj694X0pQrUZarAU8cOMEHC7fbjWQyWdGZ/KGz
+      ICmz4Q8V06onCwq7Xk66EMhJp+B/c+MvZeg83j/eCiK3lfI7URYoRywWq8opb33iK9jUuRVL
+      5s8AIQTXL7wKq1oWQHaH80IgQRDsUZ+fc7is1WjW0vIZU5Zl6LqOXC4HSZLQH+/H/r6OvBDo
+      ZMSkmwF4rpyHPHykL2dQ/LgyJ2OGUMEYuGGdqMFQShGNxWAYBg5Eu9EV66l4PJ8h3ITtP8ys
+      iSDkbSuK/3n+2rmwHc0u7MOBrzEymUxe7y2/5MeculPG1PhNyijZ+hi2Wp20M8BINTp5XMyh
+      KF74rBpfTiYzDcPqMWZAt8InRZYhS/IJO4BhGOgfHMChxCHc89IDAICHVt+P5lBpiXJn7XNG
+      V/HagXVoCDRhwdR8DaBSOkX83nAx30I410+VrosPLnxGqcTqTCaTePG9N/Deob349IU3IiD7
+      RkXrsxKc0cBYlcdOmkUwz/pwasJI+DulHnROy0E2ZbitUYvASoONEf2aGSNB4dc2zQzi0Vch
+      SQ1QfEytIa2p+N4bPwMAfPa8T+Bv3a/gxb1/AAB859If2bQPAEin00VtiZy74KWunc8S/FhC
+      CLLZrB3PcxW8rMXmBFgoyDssFoJTCG576n77tS9d9onjuk8jBddVGitMmANwI+e0aOcitxo4
+      R79So6Ch6xgcHEAgEITHKnYZrbi4FAgh8Co+RGgjHlp9PyilaAo0IB59GQN9fwYAzJ73mK3M
+      sLHrHQDA2c2nocFiYzYEI7YR8vtRrjevk5MDWAprhMDjdkPNqNA0DR4Py3nbamuOUII7Az83
+      50Y5Nwf5ex6PB5RSzJ/Rhp2H92HBjDZIkgRd1/PSrKMNQsa+NHZCQiDDMGwtSI5KDlDYZJov
+      WJ09fAuNhFIKWVYQHGFz5xMBpawL4WB0aJMol2nHkYM/gyAq9qMMN9yF77z2FHYcbQchwNy6
+      OfC6vfjy6jsxrXYqAGag5UIcJ9LpNJIpKzsjCPAqXqhq2lZaG2no4PF47Oq4wtkgl8shnU4z
+      WonVnT2VSp1Q04uJxoQE+6IosoZ3DqOvFPIUGgGfOSrNFj6fD36fb9yMHxjanCKCYF/TkUwQ
+      wtQvIiauhGmqME0VHqLiE2fdBELYtWw9tBMbOt/Gvr5O+1yFa5pCGIaBnKbh9X0b8fx7f4JG
+      dYhEQEZVIQoiuhMd2HZsB+5/6RE88favq74GZ9LB+Uw4m9K5GRaPx8f1/o4FJnQNwAly3FhG
+      ktlwjvzOlCkhBH6/H7IkT8hinhACWZKQyOXQkziCu577GiilODoYw+WzArj38tsgyW2YKQP/
+      ccUDyBhZPLf5jwCA2VNbq8pIabqGaDQKURDx8CuP2a9fv+hKEELwevcreGHnGhgmxYHeHLYf
+      acfHzrjJvr+Hkwfxh11r0BCI4Io51+Wdm0vD6LpeVNtRyKV3Cv6erJgwB3AaLxUY56cSYcz5
+      f/xn4Q4wIQTBQNDu8TtRUGSFtQZyXItLFPBiZwoP11xgG+LCyHy43W6cNeu0qlOxpmkiFosz
+      JqsgojXcjI6BLrTUNhcd6/d4sbB+Ft7pbMeTb/4OHzn7KgDAe73vYt/Abuwb2F3kAJRSZLNZ
+      KIpi/22a5kknfFUtJk0a1DRNZHM5UFo+rHFuevG/ne8Fg8FhdWzGA5QytbRYPIYDgwdBCMEd
+      z94LQRDwmXNvxofPuQaiKNqj50h6EiRTSaTTaXu/BMjnSfHf90f3ICzXYc/RQ7j553cDAJ76
+      +CM4c+aiijOAE263G16v156h349OMGnSoIIgwON2Q9PLV3txxyxlLMFgCFIZUhtPsY6X1CIh
+      jGAXrg3DqzBdoIDsRyqXHlonEKaoNtLBxuf1QRAEbN3/NOJqD+Y1XAu/JWX+rVe/ie5YNz6+
+      7EOYF25GUA6jsUZHQPYBABprpgMAZvgbcduZXxw24yaKIuum7nJB0zQoigJVVUd6OyY1xrwk
+      0qRmUbePcr1enYxG3cgXlOXH8decxSV+v7+s8asZFdlsFpqmIRAIQh6lyq9qIIoiZFmGaZp4
+      /KZHcDh2FKfPHNro4htcI5mxCCGgJkVnLysuPxbfBr/cCEIIumOsqUa8/7fYEiWY3XAtGsIX
+      4u17WV8APkv8dOOv8ML2v+KqhZfik2ffVPZzJElCLBbLywh5PJ6TOutTiKodgOXrUTWX3qYz
+      WyWRzvaqdnFKiUIZPkKKomjt1hr266VSnS6XC5KntFFnMhk7Dw4A8XgMNBCAIo8fd4WnMlun
+      N6N1OovTR0pFBmDNjCxRoGYyaJl6EeJqD6YFmaY/pRR3nHUHuuM98OqvQjeGRmq7HJQyxQre
+      Son/LMUCdblcSKfTEPQjEBLvQVMWwHTVTwqq/Ghi2DWASU0QEOimDoLht6TtFKUjlrcrsYhg
+      q0QA1eWoTdO0i2IKqb8AUGMpFxc+GMMw0Nffh0AgAEqBVIrFr4qiIOAPDPu5kwmmtRDlxLR0
+      OlX23hmGAc2IIqsPIuSdbb/upBV0xQ5hU9dmLG6YjzVbX0BruBm3LL2+5CDj7v0JhOx+mNIs
+      aFOHehpPRGnjWKCiO9vKCYae1z2yFEzKyv50Q88zfoDdMF3X7YZrrBRveEoCe2iGtREmQnOc
+      A2C5/lIZH0opkukUDMNAPB6HKArw+fyQLd7PyQTTNBGNx6BmMhAEgXWacRipYaro7v0LBhLb
+      ATDRMVEIIqjk07EJIRhMt+NA/8toCk7BjUuuBADsONqO/935Ytl65R3RYwAAVWDtm/oT27B2
+      6114a++3x+6ixxFlh2BKKUwMpebK1fUaVvG7KIqst1OZaV0URfh8fiSTiZKhTGEun5/bMHRW
+      rG2KtiMRF4GiKPB5S290UUqhO7boE4kEwuG6qlv9TCZQSu0mG7wDi3P0P9T/f+g8+icAwAWL
+      vlfuNCCE4J2OIfmTtmmXoaU2glOnz0NruJl1/bS4Rc7zP3mAsVovbvPhojogkTkIAEioPe+L
+      maCsA/A0m1lBz4fxTwCvZYjpdKrEmawPcrkgSxJ0XUMmm7V1gpwZGlYJRiGKAkAB3dDs2FXT
+      cnbuXxTFshwZgIVKoWAIg9FBGIYBv99/Uho/wAYOv9cHTdOQstKfzuv2yYxH5FeaoJsqEpke
+      +OUGEJKvMEQpRVBpQlztQdDKGnndCr5+8d32rOoSXXktHSmluGXp7Tic6MHyCKtVbqq7EAAQ
+      sIryT3YnqLgG4PF8qdjQVjqwjLLUTi4hBKFQCJqmQxQESJLERnFDRyKRYKpt7IPs4503VNM1
+      mIYJIrC0oiIrUNUMgoGAvVFTCTzsOtnCnkJQSpFS00ilUiUbT/Nns6XzJxiMvwu/SOBTIpjf
+      enfRuUoZrGEaOJbox0eeZMf/4qOPoj7IOEndR59HOnMQzfXXYDDFVKYbwswJvvPST/GLjS/g
+      lrOvwt2r85XsTuRax3Mfp+IqtJxnO7t6M8UFveh9QpgGu0AEeBUlP8MgulATqkEylWQ9Za3X
+      +cPhMwshrD+tKIqYEp4CQRBs2Y6qLs4q5jgZwRMJfPY1DdNuKarqKtZ1rENTsAlLpi/Je06i
+      dd/SGRaibDmyBd2xHqyatRKKSyk5aouCiCOJPiSzbAY/HO9FfXAqCCE40r8eANBx+DfotWTW
+      fXITQt42tB/ZDwD2zxO9Xn7NbCAUxky9w4ki63AyL8txzSVJgmmayGQzoJRCkqQinogkSZAl
+      ps3JlXmdhR2EEAT8Abjd7rwqfcM0AatTrMcjIZfLoSZUa+8PjJaG52SHbpHP+PVmMiytSQjB
+      uo51+H076zD/+JWPg1KKvnQ/BOlMLJ56EVR1LxRLgvH7G39on/OKOf+IZ3aswUv7Xsbqtotx
+      46k32O8ta1qAL6z6uP07wIyyvm4F0pmDmF63AoMqWw/Ibtau6cuXfgrrdm3EyrlDTbXLYVA9
+      iE1dz6HO24QzItcWvc8l9TkFeryecMXhsZSh8Vaiuq6DgtF/eVURZxG6XC4EA0HErBJBfi5C
+      iN2H1+aau4c2sKzusPbfNcEQTErhcbvzqpzeb7noQrDRmd0Hdr8zLLtD8ptqREIRe0S/+09f
+      R0pL42On34TVbavs80RCEXTHuhGxKtO6rM0y/tOJG077h6LXIg6V6vMXPOL4fsCcaa2YM61Y
+      +gUAOqN7UKvUISQxZ+mObsWR+G4cie/Gmc3XFUUXo6EceDwocoBqjEvTNZuvzg1b13W7kMMl
+      uopag3KeeWGaTbeKMCSPBDWjAgIfDVjcWxNkqr78/97vxg/AzvlLHo8ltpu/m75k+hJ75C8F
+      ZyHJ1y68Ly/kuWnhjdh8ZAuW1S8t+b8//tvT2Nd3ALeddzNm1TlU6swMdO0QRHcDklo/dh/6
+      DQJKE06pv6boHG/2vII/7mKtm+5b8V3miDWLcTi+G3XeJvu72O2UZrThnksnpqHesAEypzI4
+      4eTjcx1+02Szgdvtga7rSCaTtnPIsgzFWgcQQuwaAFYXICIYCCKbyyEUDCGRSkLXNJgw7Vjf
+      afyTNfzRdR2aroNazisIItwO/Z6RfG9RFOGmbmRzORYGEQKQ/BHSafwJ9SDuX/lpqIaE+VPn
+      YMuRd9Ed78bFs1ZBcSm2gO7culMQCUWK+gFwEELw/FbWO2xD59toqW0ECOtxkO79NXKp7fD4
+      FqJPqMdgcg8Gk3swZ8a1VWWBapVGXDr383mvrW3fwDSUOrfi3svGv6EeMIwD8EwPFag9RfEp
+      lxunIAjQdR1erw/ZbAaGodvpTb5e8Hq9eeflTEhegsepDzlNQ7imFoOxKHRNg6qmoTh4/ZN1
+      9KeUIp6IFyUD+AMNhUKQJRmarsNd5aKcKzCk06m8e1+IZOYQ3tz9EADgnDn3gBCC72/8gf3+
+      lXP/CV9d+wDSWhqrZs5HiOxDSGnCyvn3YG37BhyMHsUtFk2aUoqrF1+GfX0HcE7LaTCpib29
+      XRCIAKfLTA0uxkByNwLK0Gj+i41sTXLL2VfinKaLUO9vQq1SV9GoV81bjo0d72L+jLYJS6VW
+      3AjjaU4eyvCMBOe3EEIYvcE0oKoqXC62Wyt5JJu27CzwdqIwk8MLSfIqvSgwGIuiNlQzaXqJ
+      lUKlLummaSIajSIYCLJrGMYBVFW1tXdAAGpEcayTdXKsa/4iBJHJppTLv1NK0RyKoCvWjUgw
+      X2g3mu5ByAfErE2sO57+BgBgXv0snDmTcYo+tfxD9gy/t68LNzzORu1nP/UIZjdeANHdAAgy
+      Tmv9nH3etw5sx4N//pHjXAvRUjN88wtnQ72JQsmn4eSNAHA4AbHTVGzLnRm5mxDLWdxwu9xM
+      1sQ0bMGpkYAQgnBNLVLpNFQ1bYUTlUOfUmSu8YJpmogn4iXf44OFpmlIpVKorS2v+ckhy2zG
+      y1nhD9WjoCbLAJnaIASxFs+99yzW7n8Zq2ZdjOsWXI9z5twDAPBbPYa/tuLfbAehlOLBi+9H
+      b6oPbbUR7Ot9BSFr5J4/ow09g0dsmjQAUHNIpMDZhZIICkSppeR3bqyZ5qBcT6t4fbqpoqN3
+      PYJKE6ZbRL6JRNmNMJtB6IDocsHgHVWEfAltwzQgWjx3LZeDIit2N+7jhWEYyOZy8A6z6ZXL
+      5RCPx9lmmaWiNh7OQClFNBatqIzAO9rwgp1gIFj2WC5Twlt5mqaJXC6HgaMvglIKJci0/7+7
+      4T+xu38X5tTNxReW/2vF7/hC+7NY37kWK1pW4ap51+e9RwjBQGovAlIDXKJif18+yEXV/egZ
+      TEDx1JbN9jjPxe9JJew5+me0H2YloFcu+0FVoQ/jj1GWHh3l5zo8FYJy/r2VqTEMlq8tiMcV
+      WYEoitA0DRowKh1XRFEc1viBoQLybDaLbDYLn89nL7rHEvFkAmpGtfpllV6f8AfM1kRVZNg0
+      zQonXXbWzOM71yIbmhAFATcsvAHvHnkXS+qXlD1PxwBLc/bE83/mHdO7Hjt6nkN9zRKc3sJ2
+      cnm9Qc/g69je8xzcooLLFj9aZKgdfesBAK1TVuRdZyk4w7WgwlYTIcf6oRx0w4BhDpEfJffo
+      13IMuyKjFHC5WPyt60NVQZwjxOEsknCJLjvfPx4ghBXCR6NRCIIAVVUhyyeu9lYJaVW1uU+V
+      tm04d4lRwss7AK8O8/l8bFEdL15U809pDDShMVA6kwMw4799zVcBAPddfjtOqZuLhdOGnIXv
+      JGuZvUU9yQghcLsqP7uB1F5s63kOADPksI/Rrnf178EUbx3qlLB97NfX/zu6Yt343Nl3Ymn9
+      EkwPLqp65OePjzuQSc28upLRQEUH4CEQVwiQZTlPDs/J2xCtnlvcEZy6NmM9EvMNtkAggGw2
+      W7I+YDSR0zTEE7GyPKlSYGTA8pwkTdOQzWZLdmcRBAHCcSrYNAaa0Bpebv+diL2GzYc34/d7
+      dgAAHlp5N4JyIzK6ikOJHjQEmiC7FLRMWYGg0gTFEy4yVsVTB7d+ZtaTAAAD70lEQVQVMike
+      Zuwv71+HX279NbxuL354xWP2vbE33uLdWGrNWNVmfAgZSiELpPwseyKo6AACEWwn8Pn88Cpe
+      KLJiERVYjJ5MJuFyuaAoCnK5HHw+n12FNZ6LUp5ylSRpTI3fNE1EY1HHJt/w1ygIAmpqasp+
+      L13X7bAtlUqdsNpaaziC/77hW/bvHNnMfvQfex7NItCsCKCeRnv0fmrLj7Ht6BYsmr4UH1t2
+      Gyil9nvth3+LeLoH8xuvhdcTRsfh32BmaC7mRW6GQMo7NaUUnzv7TnTFu7F6VnXtm5wQCIHH
+      NTrNS8qhsgMIAkDYFE8dHcP5I3e5XAiFQnbpoduiLMiybFMixhNjvU9AKUUsHsuTFaxE2OL7
+      JQF/oGwXGtM0EY/HIVhs2dHS2SnsNQYALlctBIGN3F+56GsQRVbkIiTfQJvrKLYB2Nnbjm+/
+      9ijOn3kuzo0sByEEHceG6o+n+k9Bn9WJPqkeRNDLCm8umX0xmmsiqCvI/S+tXwITwF/3rsUl
+      basqdqucCAxroXza4aGNr0BtjRBGVc5kGDHO4/FAluWTXjCpEJRSJK3RmdcWlJvhPB4P/D6/
+      vXdRaSYUBAG1tbXI5XLW2qo6bdTjgeiqxczZDwJwpI5zHaADv8cFQWB2/T/j8e3r0d63CwBw
+      bmQ5KKVonXYR4mlWf+z1hDHF6kTvs9Ku63dvxOfXfBPz6mfhmU8+lveZhBB892/ft//+4Lwr
+      xuz6jgcjGqLLOYEoilAUBel02pbNGK2+W5MF2VwWqsoazlWqevP7/VVrE/HdcE4mHK/UbR7E
+      WsBqy9oYXozVs914vfMNnD/zXKRyKjoGujBryuV5I/eC5nzu/66jHQAYLbpwg45Sipk1ERyI
+      dqO5pnhWmmgclzAWF0Z1PjDTNJFIJGAYBjweT5GTnOyIxqJl5UB47YMiV5d65fl9VVUnRTUV
+      qzcYxEDXowCAcORLIGINHlz7PWzofBvLW07Hvas+W/b/E9kUnt70B8yd3ooVc0pTo0sVTR2I
+      9uDJd36FltpmfGTZjaN7UVXiuIJmTdPsflH2iQQBgUDA5vm8n4wfKL2+oGA7t+FwHbyKt+pr
+      zmazSKfTk8L4AYv2og2AmiqoqcLQBypeS0ZXsX9wDzI6m+0Dkg+f+cCHyhp/X7oft665Ex99
+      9i70pfvt1/9+cDN2HGvHH3e9OGH2ctyrVO4EzpmAO0EikSiSND/Z4ff5bUVmUMrSrlZBT7Wg
+      lDWYLiwemgxwy20ITLkapqkiHX0VwKv4/Pk348pTLylaUD+z/X+w/egWLJy+FLcu/cyw5+5N
+      9SOVS9u/T/HWAQDOaFyGHUfb0VLbPGGDwf8DizvfX/UeUaoAAAAASUVORK5CYII=
     </thumbnail>
     <thumbnail height='192' name='NYC City Map' width='192'>
       iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAAA7DAAAOwwHHb6hk
